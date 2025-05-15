@@ -13,32 +13,43 @@ g.bind("xsd", XSD)
 # --- CLASSES --- #
 # Here for completeness, but commented out since this should be inferred in GraphDB (I think)
 classes = [
-    "author", "reviewer", "paper", "keyword",
-    "volume", "journal", "edition", "proceeding",
-    "conference", "city"
+    "person","author", "reviewer", "journal_editor", "conference_chair", "paper", "keyword",
+    "volume", "journal", "edition", "proceeding", "event", "workshop"
+    "conference", "city", "reviews"
 ]
 for c in classes:
     g.add((RES[c], RDF.type, RDFS.Class))
 
 
 # --- SUBCLASSES --- #
-g.add((RES["reviewer"], RDFS.subClassOf, RES["author"]))
-
-# Workshop as subclass of conference?
-# g.add((RES["workshop"], RDF.type, RDFS.Class))
-# g.add((RES["workshop"], RDFS.subClassOf, RES["conference"]))
+g.add((RES["author"], RDFS.subClassOf, RES["person"]))
+g.add((RES["reviewer"], RDFS.subClassOf, RES["person"]))
+g.add((RES["journal_editor"], RDFS.subClassOf, RES["person"]))
+g.add((RES["conference_chair"], RDFS.subClassOf, RES["person"]))
+g.add((RES["workshop"], RDFS.subClassOf, RES["event"]))
+g.add((RES["conference"], RDFS.subClassOf, RES["event"]))
 
 
 # --- PROPERTIES --- #
 # Defines the domain and the range
 properties = [
+    # Person
+    ("name", "person", XSD.string),
+    ("email", "person", XSD.string),
+    # add more attributes
+
+
+    # Editor
+    ("headsJournal", "journal_editor", "journal"),
+
+    # conference_chair
+    ("headsConference", "conference_chair", "conference"),
+
     # Author
-    ("name", "author", XSD.string),
-    ("email", "author", XSD.string),
     ("writes", "author", "paper"),
 
     # Paper
-    ("about", "paper", "keyword"),
+    ("hasKeyword", "paper", "keyword"),
     ("title", "paper", XSD.string),
     ("abstract", "paper", XSD.string),
     ("doi", "paper", XSD.string),
@@ -50,7 +61,7 @@ properties = [
     ("reviewed_by", "paper", "reviewer"),
 
     # Keyword
-    ("keyword_name", "keyword", XSD.string),
+    # ("keyword_name", "keyword", XSD.string),
 
     # Paper / Journal
     ("published_in_volume", "paper", "volume"),
@@ -66,7 +77,7 @@ properties = [
     ("has_proceeding", "edition", "proceeding"),
     ("proceeding_name", "proceeding", XSD.string),
     ("heldInCity", "edition", "city"),
-    ("cityName", "city", XSD.string),
+    # ("cityName", "city", XSD.string),
     ("heldInYear", "edition", XSD.int),
     ("hostedBy", "edition", XSD.string),
 ]
