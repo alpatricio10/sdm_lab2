@@ -1,0 +1,805 @@
+Edition_ID,Venue_ID,Conference_Edition_Name,Year
+20233c4447e5-bf74-426d-ac93-650df74ea250,3c4447e5-bf74-426d-ac93-650df74ea250,2023 International Conference on Communication and Network Security,2023
+20223c4447e5-bf74-426d-ac93-650df74ea250,3c4447e5-bf74-426d-ac93-650df74ea250,2022 International Conference on Communication and Network Security,2022
+20213c4447e5-bf74-426d-ac93-650df74ea250,3c4447e5-bf74-426d-ac93-650df74ea250,2021 International Conference on Communication and Network Security,2021
+20203c4447e5-bf74-426d-ac93-650df74ea250,3c4447e5-bf74-426d-ac93-650df74ea250,2020 International Conference on Communication and Network Security,2020
+20193c4447e5-bf74-426d-ac93-650df74ea250,3c4447e5-bf74-426d-ac93-650df74ea250,2019 International Conference on Communication and Network Security,2019
+2023d0fd9a2e-7924-417b-8a2f-9f85acf31330,d0fd9a2e-7924-417b-8a2f-9f85acf31330,2023 International Conference Innovation Engineering and Technology,2023
+2022d0fd9a2e-7924-417b-8a2f-9f85acf31330,d0fd9a2e-7924-417b-8a2f-9f85acf31330,2022 International Conference Innovation Engineering and Technology,2022
+2021d0fd9a2e-7924-417b-8a2f-9f85acf31330,d0fd9a2e-7924-417b-8a2f-9f85acf31330,2021 International Conference Innovation Engineering and Technology,2021
+2020d0fd9a2e-7924-417b-8a2f-9f85acf31330,d0fd9a2e-7924-417b-8a2f-9f85acf31330,2020 International Conference Innovation Engineering and Technology,2020
+2019d0fd9a2e-7924-417b-8a2f-9f85acf31330,d0fd9a2e-7924-417b-8a2f-9f85acf31330,2019 International Conference Innovation Engineering and Technology,2019
+2023bdc2e585-4e48-4e36-8af1-6d859763d405,bdc2e585-4e48-4e36-8af1-6d859763d405,2023 AAAI Conference on Artificial Intelligence,2023
+2022bdc2e585-4e48-4e36-8af1-6d859763d405,bdc2e585-4e48-4e36-8af1-6d859763d405,2022 AAAI Conference on Artificial Intelligence,2022
+2021bdc2e585-4e48-4e36-8af1-6d859763d405,bdc2e585-4e48-4e36-8af1-6d859763d405,2021 AAAI Conference on Artificial Intelligence,2021
+2020bdc2e585-4e48-4e36-8af1-6d859763d405,bdc2e585-4e48-4e36-8af1-6d859763d405,2020 AAAI Conference on Artificial Intelligence,2020
+2019bdc2e585-4e48-4e36-8af1-6d859763d405,bdc2e585-4e48-4e36-8af1-6d859763d405,2019 AAAI Conference on Artificial Intelligence,2019
+20216363ebc9-706a-4203-b804-148cbf8810ce,6363ebc9-706a-4203-b804-148cbf8810ce,2021 IEEE International Conference on Bioinformatics and Biomedicine,2021
+20206363ebc9-706a-4203-b804-148cbf8810ce,6363ebc9-706a-4203-b804-148cbf8810ce,2020 IEEE International Conference on Bioinformatics and Biomedicine,2020
+20196363ebc9-706a-4203-b804-148cbf8810ce,6363ebc9-706a-4203-b804-148cbf8810ce,2019 IEEE International Conference on Bioinformatics and Biomedicine,2019
+20186363ebc9-706a-4203-b804-148cbf8810ce,6363ebc9-706a-4203-b804-148cbf8810ce,2018 IEEE International Conference on Bioinformatics and Biomedicine,2018
+20176363ebc9-706a-4203-b804-148cbf8810ce,6363ebc9-706a-4203-b804-148cbf8810ce,2017 IEEE International Conference on Bioinformatics and Biomedicine,2017
+20229012153e-aed6-447e-bccf-4aaf6f4bf52f,9012153e-aed6-447e-bccf-4aaf6f4bf52f,2022 IEEE International Conference on Consumer Electronics,2022
+20219012153e-aed6-447e-bccf-4aaf6f4bf52f,9012153e-aed6-447e-bccf-4aaf6f4bf52f,2021 IEEE International Conference on Consumer Electronics,2021
+20209012153e-aed6-447e-bccf-4aaf6f4bf52f,9012153e-aed6-447e-bccf-4aaf6f4bf52f,2020 IEEE International Conference on Consumer Electronics,2020
+20199012153e-aed6-447e-bccf-4aaf6f4bf52f,9012153e-aed6-447e-bccf-4aaf6f4bf52f,2019 IEEE International Conference on Consumer Electronics,2019
+20189012153e-aed6-447e-bccf-4aaf6f4bf52f,9012153e-aed6-447e-bccf-4aaf6f4bf52f,2018 IEEE International Conference on Consumer Electronics,2018
+2019022430e1-ff7e-4441-8457-affe82b3bd65,022430e1-ff7e-4441-8457-affe82b3bd65,"2019 International Symposium on Networks, Computers and Communications",2019
+2018022430e1-ff7e-4441-8457-affe82b3bd65,022430e1-ff7e-4441-8457-affe82b3bd65,"2018 International Symposium on Networks, Computers and Communications",2018
+2017022430e1-ff7e-4441-8457-affe82b3bd65,022430e1-ff7e-4441-8457-affe82b3bd65,"2017 International Symposium on Networks, Computers and Communications",2017
+2016022430e1-ff7e-4441-8457-affe82b3bd65,022430e1-ff7e-4441-8457-affe82b3bd65,"2016 International Symposium on Networks, Computers and Communications",2016
+2015022430e1-ff7e-4441-8457-affe82b3bd65,022430e1-ff7e-4441-8457-affe82b3bd65,"2015 International Symposium on Networks, Computers and Communications",2015
+20213dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2021 Italian National Conference on Sensors,2021
+20203dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2020 Italian National Conference on Sensors,2020
+20193dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2019 Italian National Conference on Sensors,2019
+20183dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2018 Italian National Conference on Sensors,2018
+20173dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2017 Italian National Conference on Sensors,2017
+20233dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2023 Italian National Conference on Sensors,2023
+20223dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2022 Italian National Conference on Sensors,2022
+2011b7d9506a-45c5-45d0-9588-e7c946acb8c9,b7d9506a-45c5-45d0-9588-e7c946acb8c9,2011 Computational Intelligence in Security for Information Systems,2011
+2010b7d9506a-45c5-45d0-9588-e7c946acb8c9,b7d9506a-45c5-45d0-9588-e7c946acb8c9,2010 Computational Intelligence in Security for Information Systems,2010
+2009b7d9506a-45c5-45d0-9588-e7c946acb8c9,b7d9506a-45c5-45d0-9588-e7c946acb8c9,2009 Computational Intelligence in Security for Information Systems,2009
+2008b7d9506a-45c5-45d0-9588-e7c946acb8c9,b7d9506a-45c5-45d0-9588-e7c946acb8c9,2008 Computational Intelligence in Security for Information Systems,2008
+2007b7d9506a-45c5-45d0-9588-e7c946acb8c9,b7d9506a-45c5-45d0-9588-e7c946acb8c9,2007 Computational Intelligence in Security for Information Systems,2007
+201929b9c461-963e-4d11-b2ab-92c182243942,29b9c461-963e-4d11-b2ab-92c182243942,2019 IEEE Symposium on Security and Privacy,2019
+201829b9c461-963e-4d11-b2ab-92c182243942,29b9c461-963e-4d11-b2ab-92c182243942,2018 IEEE Symposium on Security and Privacy,2018
+201729b9c461-963e-4d11-b2ab-92c182243942,29b9c461-963e-4d11-b2ab-92c182243942,2017 IEEE Symposium on Security and Privacy,2017
+201629b9c461-963e-4d11-b2ab-92c182243942,29b9c461-963e-4d11-b2ab-92c182243942,2016 IEEE Symposium on Security and Privacy,2016
+201529b9c461-963e-4d11-b2ab-92c182243942,29b9c461-963e-4d11-b2ab-92c182243942,2015 IEEE Symposium on Security and Privacy,2015
+2023b8e1c2e0-1b74-4058-baa7-54f0bb392eba,b8e1c2e0-1b74-4058-baa7-54f0bb392eba,2023 Computing and Communication Workshop and Conference,2023
+2022b8e1c2e0-1b74-4058-baa7-54f0bb392eba,b8e1c2e0-1b74-4058-baa7-54f0bb392eba,2022 Computing and Communication Workshop and Conference,2022
+2021b8e1c2e0-1b74-4058-baa7-54f0bb392eba,b8e1c2e0-1b74-4058-baa7-54f0bb392eba,2021 Computing and Communication Workshop and Conference,2021
+2020b8e1c2e0-1b74-4058-baa7-54f0bb392eba,b8e1c2e0-1b74-4058-baa7-54f0bb392eba,2020 Computing and Communication Workshop and Conference,2020
+2019b8e1c2e0-1b74-4058-baa7-54f0bb392eba,b8e1c2e0-1b74-4058-baa7-54f0bb392eba,2019 Computing and Communication Workshop and Conference,2019
+2024d9720b90-d60b-48bc-9df8-87a30b9a60dd,d9720b90-d60b-48bc-9df8-87a30b9a60dd,2024 Neural Information Processing Systems,2024
+2023d9720b90-d60b-48bc-9df8-87a30b9a60dd,d9720b90-d60b-48bc-9df8-87a30b9a60dd,2023 Neural Information Processing Systems,2023
+2022d9720b90-d60b-48bc-9df8-87a30b9a60dd,d9720b90-d60b-48bc-9df8-87a30b9a60dd,2022 Neural Information Processing Systems,2022
+2021d9720b90-d60b-48bc-9df8-87a30b9a60dd,d9720b90-d60b-48bc-9df8-87a30b9a60dd,2021 Neural Information Processing Systems,2021
+2020d9720b90-d60b-48bc-9df8-87a30b9a60dd,d9720b90-d60b-48bc-9df8-87a30b9a60dd,2020 Neural Information Processing Systems,2020
+20241124d164-490d-4da9-b0c2-ce8a8dc98202,1124d164-490d-4da9-b0c2-ce8a8dc98202,2024 BigData Congress [Services Society],2024
+20231124d164-490d-4da9-b0c2-ce8a8dc98202,1124d164-490d-4da9-b0c2-ce8a8dc98202,2023 BigData Congress [Services Society],2023
+20221124d164-490d-4da9-b0c2-ce8a8dc98202,1124d164-490d-4da9-b0c2-ce8a8dc98202,2022 BigData Congress [Services Society],2022
+20211124d164-490d-4da9-b0c2-ce8a8dc98202,1124d164-490d-4da9-b0c2-ce8a8dc98202,2021 BigData Congress [Services Society],2021
+20201124d164-490d-4da9-b0c2-ce8a8dc98202,1124d164-490d-4da9-b0c2-ce8a8dc98202,2020 BigData Congress [Services Society],2020
+2018ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,2018 International Conference Intelligent Data Communication Technologies and Internet Things,2018
+2017ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,2017 International Conference Intelligent Data Communication Technologies and Internet Things,2017
+2016ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,2016 International Conference Intelligent Data Communication Technologies and Internet Things,2016
+2015ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,2015 International Conference Intelligent Data Communication Technologies and Internet Things,2015
+2014ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,ab0ea0d9-ab60-449f-ac5e-9cbc0e3d5a6e,2014 International Conference Intelligent Data Communication Technologies and Internet Things,2014
+2024cb4cad41-2375-4efe-b205-7ce789c1b8af,cb4cad41-2375-4efe-b205-7ce789c1b8af,2024 International Symposium on Communications and Information Technologies,2024
+2023cb4cad41-2375-4efe-b205-7ce789c1b8af,cb4cad41-2375-4efe-b205-7ce789c1b8af,2023 International Symposium on Communications and Information Technologies,2023
+2022cb4cad41-2375-4efe-b205-7ce789c1b8af,cb4cad41-2375-4efe-b205-7ce789c1b8af,2022 International Symposium on Communications and Information Technologies,2022
+2021cb4cad41-2375-4efe-b205-7ce789c1b8af,cb4cad41-2375-4efe-b205-7ce789c1b8af,2021 International Symposium on Communications and Information Technologies,2021
+2020cb4cad41-2375-4efe-b205-7ce789c1b8af,cb4cad41-2375-4efe-b205-7ce789c1b8af,2020 International Symposium on Communications and Information Technologies,2020
+2020b0f32794-b6c9-414c-b208-f48488188f0f,b0f32794-b6c9-414c-b208-f48488188f0f,2020 International Conference on Networking in Education and Research,2020
+2019b0f32794-b6c9-414c-b208-f48488188f0f,b0f32794-b6c9-414c-b208-f48488188f0f,2019 International Conference on Networking in Education and Research,2019
+2018b0f32794-b6c9-414c-b208-f48488188f0f,b0f32794-b6c9-414c-b208-f48488188f0f,2018 International Conference on Networking in Education and Research,2018
+2017b0f32794-b6c9-414c-b208-f48488188f0f,b0f32794-b6c9-414c-b208-f48488188f0f,2017 International Conference on Networking in Education and Research,2017
+2016b0f32794-b6c9-414c-b208-f48488188f0f,b0f32794-b6c9-414c-b208-f48488188f0f,2016 International Conference on Networking in Education and Research,2016
+20051ec5a55c-414e-4f79-b7dc-48e1dba3618e,1ec5a55c-414e-4f79-b7dc-48e1dba3618e,2005 IEEE Region 10 Conference,2005
+20041ec5a55c-414e-4f79-b7dc-48e1dba3618e,1ec5a55c-414e-4f79-b7dc-48e1dba3618e,2004 IEEE Region 10 Conference,2004
+20031ec5a55c-414e-4f79-b7dc-48e1dba3618e,1ec5a55c-414e-4f79-b7dc-48e1dba3618e,2003 IEEE Region 10 Conference,2003
+20021ec5a55c-414e-4f79-b7dc-48e1dba3618e,1ec5a55c-414e-4f79-b7dc-48e1dba3618e,2002 IEEE Region 10 Conference,2002
+20011ec5a55c-414e-4f79-b7dc-48e1dba3618e,1ec5a55c-414e-4f79-b7dc-48e1dba3618e,2001 IEEE Region 10 Conference,2001
+2022b6744d41-3aae-472d-98cf-21f4373115b2,b6744d41-3aae-472d-98cf-21f4373115b2,2022 International Conference on Industrial Informatics,2022
+2021b6744d41-3aae-472d-98cf-21f4373115b2,b6744d41-3aae-472d-98cf-21f4373115b2,2021 International Conference on Industrial Informatics,2021
+2020b6744d41-3aae-472d-98cf-21f4373115b2,b6744d41-3aae-472d-98cf-21f4373115b2,2020 International Conference on Industrial Informatics,2020
+2019b6744d41-3aae-472d-98cf-21f4373115b2,b6744d41-3aae-472d-98cf-21f4373115b2,2019 International Conference on Industrial Informatics,2019
+2018b6744d41-3aae-472d-98cf-21f4373115b2,b6744d41-3aae-472d-98cf-21f4373115b2,2018 International Conference on Industrial Informatics,2018
+2018e1afedcc-2543-4f61-b797-bc52344438e7,e1afedcc-2543-4f61-b797-bc52344438e7,"2018 International Conference on Social Networks Analysis, Management and Security",2018
+2017e1afedcc-2543-4f61-b797-bc52344438e7,e1afedcc-2543-4f61-b797-bc52344438e7,"2017 International Conference on Social Networks Analysis, Management and Security",2017
+2016e1afedcc-2543-4f61-b797-bc52344438e7,e1afedcc-2543-4f61-b797-bc52344438e7,"2016 International Conference on Social Networks Analysis, Management and Security",2016
+2015e1afedcc-2543-4f61-b797-bc52344438e7,e1afedcc-2543-4f61-b797-bc52344438e7,"2015 International Conference on Social Networks Analysis, Management and Security",2015
+2014e1afedcc-2543-4f61-b797-bc52344438e7,e1afedcc-2543-4f61-b797-bc52344438e7,"2014 International Conference on Social Networks Analysis, Management and Security",2014
+202346ea0717-6bd1-426d-aa9f-c76eb45e1805,46ea0717-6bd1-426d-aa9f-c76eb45e1805,2023 International Conference on Mechatronics and Machine Vision in Practice,2023
+202246ea0717-6bd1-426d-aa9f-c76eb45e1805,46ea0717-6bd1-426d-aa9f-c76eb45e1805,2022 International Conference on Mechatronics and Machine Vision in Practice,2022
+202146ea0717-6bd1-426d-aa9f-c76eb45e1805,46ea0717-6bd1-426d-aa9f-c76eb45e1805,2021 International Conference on Mechatronics and Machine Vision in Practice,2021
+202046ea0717-6bd1-426d-aa9f-c76eb45e1805,46ea0717-6bd1-426d-aa9f-c76eb45e1805,2020 International Conference on Mechatronics and Machine Vision in Practice,2020
+201946ea0717-6bd1-426d-aa9f-c76eb45e1805,46ea0717-6bd1-426d-aa9f-c76eb45e1805,2019 International Conference on Mechatronics and Machine Vision in Practice,2019
+201537888117-3756-41ca-8398-727924167457,37888117-3756-41ca-8398-727924167457,"2015 International Conference on Control, Engineering & Information Technology",2015
+201437888117-3756-41ca-8398-727924167457,37888117-3756-41ca-8398-727924167457,"2014 International Conference on Control, Engineering & Information Technology",2014
+201337888117-3756-41ca-8398-727924167457,37888117-3756-41ca-8398-727924167457,"2013 International Conference on Control, Engineering & Information Technology",2013
+201237888117-3756-41ca-8398-727924167457,37888117-3756-41ca-8398-727924167457,"2012 International Conference on Control, Engineering & Information Technology",2012
+201137888117-3756-41ca-8398-727924167457,37888117-3756-41ca-8398-727924167457,"2011 International Conference on Control, Engineering & Information Technology",2011
+202334e23edc-d287-46e8-9963-ad079321aa9f,34e23edc-d287-46e8-9963-ad079321aa9f,2023 International Symposium on Autonomous Decentralized Systems,2023
+202234e23edc-d287-46e8-9963-ad079321aa9f,34e23edc-d287-46e8-9963-ad079321aa9f,2022 International Symposium on Autonomous Decentralized Systems,2022
+202134e23edc-d287-46e8-9963-ad079321aa9f,34e23edc-d287-46e8-9963-ad079321aa9f,2021 International Symposium on Autonomous Decentralized Systems,2021
+202034e23edc-d287-46e8-9963-ad079321aa9f,34e23edc-d287-46e8-9963-ad079321aa9f,2020 International Symposium on Autonomous Decentralized Systems,2020
+201934e23edc-d287-46e8-9963-ad079321aa9f,34e23edc-d287-46e8-9963-ad079321aa9f,2019 International Symposium on Autonomous Decentralized Systems,2019
+202297a677bb-0fa7-4c1d-a54e-24db1fb98dd5,97a677bb-0fa7-4c1d-a54e-24db1fb98dd5,2022 International Conference on Computational Intelligence and Communication Networks,2022
+202197a677bb-0fa7-4c1d-a54e-24db1fb98dd5,97a677bb-0fa7-4c1d-a54e-24db1fb98dd5,2021 International Conference on Computational Intelligence and Communication Networks,2021
+202097a677bb-0fa7-4c1d-a54e-24db1fb98dd5,97a677bb-0fa7-4c1d-a54e-24db1fb98dd5,2020 International Conference on Computational Intelligence and Communication Networks,2020
+201997a677bb-0fa7-4c1d-a54e-24db1fb98dd5,97a677bb-0fa7-4c1d-a54e-24db1fb98dd5,2019 International Conference on Computational Intelligence and Communication Networks,2019
+201897a677bb-0fa7-4c1d-a54e-24db1fb98dd5,97a677bb-0fa7-4c1d-a54e-24db1fb98dd5,2018 International Conference on Computational Intelligence and Communication Networks,2018
+202447e0888a-1a02-4c10-896a-464d8d7572a4,47e0888a-1a02-4c10-896a-464d8d7572a4,"2024 International Conference on Computing, Networking and Communications",2024
+202347e0888a-1a02-4c10-896a-464d8d7572a4,47e0888a-1a02-4c10-896a-464d8d7572a4,"2023 International Conference on Computing, Networking and Communications",2023
+202247e0888a-1a02-4c10-896a-464d8d7572a4,47e0888a-1a02-4c10-896a-464d8d7572a4,"2022 International Conference on Computing, Networking and Communications",2022
+202147e0888a-1a02-4c10-896a-464d8d7572a4,47e0888a-1a02-4c10-896a-464d8d7572a4,"2021 International Conference on Computing, Networking and Communications",2021
+202047e0888a-1a02-4c10-896a-464d8d7572a4,47e0888a-1a02-4c10-896a-464d8d7572a4,"2020 International Conference on Computing, Networking and Communications",2020
+202151227d50-1d22-48c8-ac32-5466d5c3d16b,51227d50-1d22-48c8-ac32-5466d5c3d16b,2021 SMART,2021
+202051227d50-1d22-48c8-ac32-5466d5c3d16b,51227d50-1d22-48c8-ac32-5466d5c3d16b,2020 SMART,2020
+201951227d50-1d22-48c8-ac32-5466d5c3d16b,51227d50-1d22-48c8-ac32-5466d5c3d16b,2019 SMART,2019
+201851227d50-1d22-48c8-ac32-5466d5c3d16b,51227d50-1d22-48c8-ac32-5466d5c3d16b,2018 SMART,2018
+201751227d50-1d22-48c8-ac32-5466d5c3d16b,51227d50-1d22-48c8-ac32-5466d5c3d16b,2017 SMART,2017
+2019568703b2-71b4-4fe5-97b0-1696cbc9ff46,568703b2-71b4-4fe5-97b0-1696cbc9ff46,"2019 International Conference on Signal Processing, Communications and Computing",2019
+2018568703b2-71b4-4fe5-97b0-1696cbc9ff46,568703b2-71b4-4fe5-97b0-1696cbc9ff46,"2018 International Conference on Signal Processing, Communications and Computing",2018
+2017568703b2-71b4-4fe5-97b0-1696cbc9ff46,568703b2-71b4-4fe5-97b0-1696cbc9ff46,"2017 International Conference on Signal Processing, Communications and Computing",2017
+2016568703b2-71b4-4fe5-97b0-1696cbc9ff46,568703b2-71b4-4fe5-97b0-1696cbc9ff46,"2016 International Conference on Signal Processing, Communications and Computing",2016
+2015568703b2-71b4-4fe5-97b0-1696cbc9ff46,568703b2-71b4-4fe5-97b0-1696cbc9ff46,"2015 International Conference on Signal Processing, Communications and Computing",2015
+20244ee942df-8fd9-437c-a9a6-e82a7cfdfb33,4ee942df-8fd9-437c-a9a6-e82a7cfdfb33,2024 International Conference on Data Science and Information Technology,2024
+20234ee942df-8fd9-437c-a9a6-e82a7cfdfb33,4ee942df-8fd9-437c-a9a6-e82a7cfdfb33,2023 International Conference on Data Science and Information Technology,2023
+20224ee942df-8fd9-437c-a9a6-e82a7cfdfb33,4ee942df-8fd9-437c-a9a6-e82a7cfdfb33,2022 International Conference on Data Science and Information Technology,2022
+20214ee942df-8fd9-437c-a9a6-e82a7cfdfb33,4ee942df-8fd9-437c-a9a6-e82a7cfdfb33,2021 International Conference on Data Science and Information Technology,2021
+20204ee942df-8fd9-437c-a9a6-e82a7cfdfb33,4ee942df-8fd9-437c-a9a6-e82a7cfdfb33,2020 International Conference on Data Science and Information Technology,2020
+2023975e1529-a14b-436f-ad7e-a09d8eabc50d,975e1529-a14b-436f-ad7e-a09d8eabc50d,2023 IEEE International Conference on Multimedia and Expo,2023
+2022975e1529-a14b-436f-ad7e-a09d8eabc50d,975e1529-a14b-436f-ad7e-a09d8eabc50d,2022 IEEE International Conference on Multimedia and Expo,2022
+2021975e1529-a14b-436f-ad7e-a09d8eabc50d,975e1529-a14b-436f-ad7e-a09d8eabc50d,2021 IEEE International Conference on Multimedia and Expo,2021
+2020975e1529-a14b-436f-ad7e-a09d8eabc50d,975e1529-a14b-436f-ad7e-a09d8eabc50d,2020 IEEE International Conference on Multimedia and Expo,2020
+2019975e1529-a14b-436f-ad7e-a09d8eabc50d,975e1529-a14b-436f-ad7e-a09d8eabc50d,2019 IEEE International Conference on Multimedia and Expo,2019
+2023f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,2023 International Conference on Recent Advances and Innovations in Engineering,2023
+2022f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,2022 International Conference on Recent Advances and Innovations in Engineering,2022
+2021f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,2021 International Conference on Recent Advances and Innovations in Engineering,2021
+2020f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,2020 International Conference on Recent Advances and Innovations in Engineering,2020
+2019f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,f63e4bb3-0e34-4ab9-8bf1-45fa94f94fe1,2019 International Conference on Recent Advances and Innovations in Engineering,2019
+202347c47088-7640-441b-85ba-375fe8f5c3a4,47c47088-7640-441b-85ba-375fe8f5c3a4,2023 International Conference on Computing Communication and Networking Technologies,2023
+202247c47088-7640-441b-85ba-375fe8f5c3a4,47c47088-7640-441b-85ba-375fe8f5c3a4,2022 International Conference on Computing Communication and Networking Technologies,2022
+202147c47088-7640-441b-85ba-375fe8f5c3a4,47c47088-7640-441b-85ba-375fe8f5c3a4,2021 International Conference on Computing Communication and Networking Technologies,2021
+202047c47088-7640-441b-85ba-375fe8f5c3a4,47c47088-7640-441b-85ba-375fe8f5c3a4,2020 International Conference on Computing Communication and Networking Technologies,2020
+201947c47088-7640-441b-85ba-375fe8f5c3a4,47c47088-7640-441b-85ba-375fe8f5c3a4,2019 International Conference on Computing Communication and Networking Technologies,2019
+20157c2ed62b-652b-4fc5-912c-c579b4c98c67,7c2ed62b-652b-4fc5-912c-c579b4c98c67,2015 International Conference on Intelligent Human-Machine Systems and Cybernetics,2015
+20147c2ed62b-652b-4fc5-912c-c579b4c98c67,7c2ed62b-652b-4fc5-912c-c579b4c98c67,2014 International Conference on Intelligent Human-Machine Systems and Cybernetics,2014
+20137c2ed62b-652b-4fc5-912c-c579b4c98c67,7c2ed62b-652b-4fc5-912c-c579b4c98c67,2013 International Conference on Intelligent Human-Machine Systems and Cybernetics,2013
+20127c2ed62b-652b-4fc5-912c-c579b4c98c67,7c2ed62b-652b-4fc5-912c-c579b4c98c67,2012 International Conference on Intelligent Human-Machine Systems and Cybernetics,2012
+20117c2ed62b-652b-4fc5-912c-c579b4c98c67,7c2ed62b-652b-4fc5-912c-c579b4c98c67,2011 International Conference on Intelligent Human-Machine Systems and Cybernetics,2011
+2024a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,"2024 International Symposium on Antennas, Propagation and EM Theory",2024
+2023a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,"2023 International Symposium on Antennas, Propagation and EM Theory",2023
+2022a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,"2022 International Symposium on Antennas, Propagation and EM Theory",2022
+2021a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,"2021 International Symposium on Antennas, Propagation and EM Theory",2021
+2020a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,a5ccc967-f56a-4ebf-beb0-4e0bfdd5785b,"2020 International Symposium on Antennas, Propagation and EM Theory",2020
+2020a47b9394-c5c7-4bc8-b8fc-b08f96954278,a47b9394-c5c7-4bc8-b8fc-b08f96954278,2020 IEEE International Geoscience and Remote Sensing Symposium,2020
+2019a47b9394-c5c7-4bc8-b8fc-b08f96954278,a47b9394-c5c7-4bc8-b8fc-b08f96954278,2019 IEEE International Geoscience and Remote Sensing Symposium,2019
+2018a47b9394-c5c7-4bc8-b8fc-b08f96954278,a47b9394-c5c7-4bc8-b8fc-b08f96954278,2018 IEEE International Geoscience and Remote Sensing Symposium,2018
+2017a47b9394-c5c7-4bc8-b8fc-b08f96954278,a47b9394-c5c7-4bc8-b8fc-b08f96954278,2017 IEEE International Geoscience and Remote Sensing Symposium,2017
+2016a47b9394-c5c7-4bc8-b8fc-b08f96954278,a47b9394-c5c7-4bc8-b8fc-b08f96954278,2016 IEEE International Geoscience and Remote Sensing Symposium,2016
+201741bf9ed3-85b3-4c90-b015-150e31690253,41bf9ed3-85b3-4c90-b015-150e31690253,2017 Conference on Empirical Methods in Natural Language Processing,2017
+201641bf9ed3-85b3-4c90-b015-150e31690253,41bf9ed3-85b3-4c90-b015-150e31690253,2016 Conference on Empirical Methods in Natural Language Processing,2016
+201541bf9ed3-85b3-4c90-b015-150e31690253,41bf9ed3-85b3-4c90-b015-150e31690253,2015 Conference on Empirical Methods in Natural Language Processing,2015
+201441bf9ed3-85b3-4c90-b015-150e31690253,41bf9ed3-85b3-4c90-b015-150e31690253,2014 Conference on Empirical Methods in Natural Language Processing,2014
+201341bf9ed3-85b3-4c90-b015-150e31690253,41bf9ed3-85b3-4c90-b015-150e31690253,2013 Conference on Empirical Methods in Natural Language Processing,2013
+20237a30a111-07e4-4ab7-a402-1990d9cd4832,7a30a111-07e4-4ab7-a402-1990d9cd4832,2023 Telecommunications Forum,2023
+20227a30a111-07e4-4ab7-a402-1990d9cd4832,7a30a111-07e4-4ab7-a402-1990d9cd4832,2022 Telecommunications Forum,2022
+20217a30a111-07e4-4ab7-a402-1990d9cd4832,7a30a111-07e4-4ab7-a402-1990d9cd4832,2021 Telecommunications Forum,2021
+20207a30a111-07e4-4ab7-a402-1990d9cd4832,7a30a111-07e4-4ab7-a402-1990d9cd4832,2020 Telecommunications Forum,2020
+20197a30a111-07e4-4ab7-a402-1990d9cd4832,7a30a111-07e4-4ab7-a402-1990d9cd4832,2019 Telecommunications Forum,2019
+20080d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2008 IEEE International Conference on Acoustics, Speech, and Signal Processing",2008
+20070d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2007 IEEE International Conference on Acoustics, Speech, and Signal Processing",2007
+20060d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2006 IEEE International Conference on Acoustics, Speech, and Signal Processing",2006
+20050d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2005 IEEE International Conference on Acoustics, Speech, and Signal Processing",2005
+20040d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2004 IEEE International Conference on Acoustics, Speech, and Signal Processing",2004
+2021d8655d54-1311-417a-91f7-c5c6daf8fba2,d8655d54-1311-417a-91f7-c5c6daf8fba2,"2021 IEEE International Conference on Software Analysis, Evolution, and Reengineering",2021
+2020d8655d54-1311-417a-91f7-c5c6daf8fba2,d8655d54-1311-417a-91f7-c5c6daf8fba2,"2020 IEEE International Conference on Software Analysis, Evolution, and Reengineering",2020
+2019d8655d54-1311-417a-91f7-c5c6daf8fba2,d8655d54-1311-417a-91f7-c5c6daf8fba2,"2019 IEEE International Conference on Software Analysis, Evolution, and Reengineering",2019
+2018d8655d54-1311-417a-91f7-c5c6daf8fba2,d8655d54-1311-417a-91f7-c5c6daf8fba2,"2018 IEEE International Conference on Software Analysis, Evolution, and Reengineering",2018
+2017d8655d54-1311-417a-91f7-c5c6daf8fba2,d8655d54-1311-417a-91f7-c5c6daf8fba2,"2017 IEEE International Conference on Software Analysis, Evolution, and Reengineering",2017
+20239213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2023 International Conference on Computing Communication Control and automation,2023
+20229213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2022 International Conference on Computing Communication Control and automation,2022
+20219213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2021 International Conference on Computing Communication Control and automation,2021
+20209213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2020 International Conference on Computing Communication Control and automation,2020
+20199213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2019 International Conference on Computing Communication Control and automation,2019
+20238f83be5d-9857-4772-ba0a-0cd7aa18e467,8f83be5d-9857-4772-ba0a-0cd7aa18e467,2023 International Conference on Electrical and Electronics Engineering,2023
+20228f83be5d-9857-4772-ba0a-0cd7aa18e467,8f83be5d-9857-4772-ba0a-0cd7aa18e467,2022 International Conference on Electrical and Electronics Engineering,2022
+20218f83be5d-9857-4772-ba0a-0cd7aa18e467,8f83be5d-9857-4772-ba0a-0cd7aa18e467,2021 International Conference on Electrical and Electronics Engineering,2021
+20208f83be5d-9857-4772-ba0a-0cd7aa18e467,8f83be5d-9857-4772-ba0a-0cd7aa18e467,2020 International Conference on Electrical and Electronics Engineering,2020
+20198f83be5d-9857-4772-ba0a-0cd7aa18e467,8f83be5d-9857-4772-ba0a-0cd7aa18e467,2019 International Conference on Electrical and Electronics Engineering,2019
+202454c34256-7049-4afc-ad8d-f2b68cca0a45,54c34256-7049-4afc-ad8d-f2b68cca0a45,"2024 SouthEast European Design Automation, Computer Engineering, Computer Networks and Social Media Conference",2024
+202354c34256-7049-4afc-ad8d-f2b68cca0a45,54c34256-7049-4afc-ad8d-f2b68cca0a45,"2023 SouthEast European Design Automation, Computer Engineering, Computer Networks and Social Media Conference",2023
+202254c34256-7049-4afc-ad8d-f2b68cca0a45,54c34256-7049-4afc-ad8d-f2b68cca0a45,"2022 SouthEast European Design Automation, Computer Engineering, Computer Networks and Social Media Conference",2022
+202154c34256-7049-4afc-ad8d-f2b68cca0a45,54c34256-7049-4afc-ad8d-f2b68cca0a45,"2021 SouthEast European Design Automation, Computer Engineering, Computer Networks and Social Media Conference",2021
+202054c34256-7049-4afc-ad8d-f2b68cca0a45,54c34256-7049-4afc-ad8d-f2b68cca0a45,"2020 SouthEast European Design Automation, Computer Engineering, Computer Networks and Social Media Conference",2020
+20221ea59d80-d9e8-455e-aa83-2f0afd7503aa,1ea59d80-d9e8-455e-aa83-2f0afd7503aa,2022 International Workshop on Sensor-based Activity Recognition and Interaction,2022
+20211ea59d80-d9e8-455e-aa83-2f0afd7503aa,1ea59d80-d9e8-455e-aa83-2f0afd7503aa,2021 International Workshop on Sensor-based Activity Recognition and Interaction,2021
+20201ea59d80-d9e8-455e-aa83-2f0afd7503aa,1ea59d80-d9e8-455e-aa83-2f0afd7503aa,2020 International Workshop on Sensor-based Activity Recognition and Interaction,2020
+20191ea59d80-d9e8-455e-aa83-2f0afd7503aa,1ea59d80-d9e8-455e-aa83-2f0afd7503aa,2019 International Workshop on Sensor-based Activity Recognition and Interaction,2019
+20181ea59d80-d9e8-455e-aa83-2f0afd7503aa,1ea59d80-d9e8-455e-aa83-2f0afd7503aa,2018 International Workshop on Sensor-based Activity Recognition and Interaction,2018
+20210d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2021 IEEE International Conference on Acoustics, Speech, and Signal Processing",2021
+20200d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2020 IEEE International Conference on Acoustics, Speech, and Signal Processing",2020
+20190d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2019 IEEE International Conference on Acoustics, Speech, and Signal Processing",2019
+20180d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2018 IEEE International Conference on Acoustics, Speech, and Signal Processing",2018
+20170d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2017 IEEE International Conference on Acoustics, Speech, and Signal Processing",2017
+20156682f507-bba1-49f1-a361-cf7f43ab432b,6682f507-bba1-49f1-a361-cf7f43ab432b,2015 International Conference on Robotics and Mechatronics,2015
+20146682f507-bba1-49f1-a361-cf7f43ab432b,6682f507-bba1-49f1-a361-cf7f43ab432b,2014 International Conference on Robotics and Mechatronics,2014
+20136682f507-bba1-49f1-a361-cf7f43ab432b,6682f507-bba1-49f1-a361-cf7f43ab432b,2013 International Conference on Robotics and Mechatronics,2013
+20126682f507-bba1-49f1-a361-cf7f43ab432b,6682f507-bba1-49f1-a361-cf7f43ab432b,2012 International Conference on Robotics and Mechatronics,2012
+20116682f507-bba1-49f1-a361-cf7f43ab432b,6682f507-bba1-49f1-a361-cf7f43ab432b,2011 International Conference on Robotics and Mechatronics,2011
+20224a0a181c-3807-4883-8ac2-b0ddf5f46497,4a0a181c-3807-4883-8ac2-b0ddf5f46497,2022 International Conference on Communication and Electronics Systems,2022
+20214a0a181c-3807-4883-8ac2-b0ddf5f46497,4a0a181c-3807-4883-8ac2-b0ddf5f46497,2021 International Conference on Communication and Electronics Systems,2021
+20204a0a181c-3807-4883-8ac2-b0ddf5f46497,4a0a181c-3807-4883-8ac2-b0ddf5f46497,2020 International Conference on Communication and Electronics Systems,2020
+20194a0a181c-3807-4883-8ac2-b0ddf5f46497,4a0a181c-3807-4883-8ac2-b0ddf5f46497,2019 International Conference on Communication and Electronics Systems,2019
+20184a0a181c-3807-4883-8ac2-b0ddf5f46497,4a0a181c-3807-4883-8ac2-b0ddf5f46497,2018 International Conference on Communication and Electronics Systems,2018
+2024bea6dbb8-4367-4c35-8e28-e749f3ad107c,bea6dbb8-4367-4c35-8e28-e749f3ad107c,2024 International Conference on Database Theory,2024
+2023bea6dbb8-4367-4c35-8e28-e749f3ad107c,bea6dbb8-4367-4c35-8e28-e749f3ad107c,2023 International Conference on Database Theory,2023
+2022bea6dbb8-4367-4c35-8e28-e749f3ad107c,bea6dbb8-4367-4c35-8e28-e749f3ad107c,2022 International Conference on Database Theory,2022
+2021bea6dbb8-4367-4c35-8e28-e749f3ad107c,bea6dbb8-4367-4c35-8e28-e749f3ad107c,2021 International Conference on Database Theory,2021
+2020bea6dbb8-4367-4c35-8e28-e749f3ad107c,bea6dbb8-4367-4c35-8e28-e749f3ad107c,2020 International Conference on Database Theory,2020
+202169a08215-5ca4-41b6-a305-da432d8bd5a8,69a08215-5ca4-41b6-a305-da432d8bd5a8,2021 IEEE International Symposium on Hardware Oriented Security and Trust,2021
+202069a08215-5ca4-41b6-a305-da432d8bd5a8,69a08215-5ca4-41b6-a305-da432d8bd5a8,2020 IEEE International Symposium on Hardware Oriented Security and Trust,2020
+201969a08215-5ca4-41b6-a305-da432d8bd5a8,69a08215-5ca4-41b6-a305-da432d8bd5a8,2019 IEEE International Symposium on Hardware Oriented Security and Trust,2019
+201869a08215-5ca4-41b6-a305-da432d8bd5a8,69a08215-5ca4-41b6-a305-da432d8bd5a8,2018 IEEE International Symposium on Hardware Oriented Security and Trust,2018
+201769a08215-5ca4-41b6-a305-da432d8bd5a8,69a08215-5ca4-41b6-a305-da432d8bd5a8,2017 IEEE International Symposium on Hardware Oriented Security and Trust,2017
+20189213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2018 International Conference on Computing Communication Control and automation,2018
+20179213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2017 International Conference on Computing Communication Control and automation,2017
+20169213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2016 International Conference on Computing Communication Control and automation,2016
+20159213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2015 International Conference on Computing Communication Control and automation,2015
+20149213b848-c171-4f98-8c0b-e69f0b41941b,9213b848-c171-4f98-8c0b-e69f0b41941b,2014 International Conference on Computing Communication Control and automation,2014
+2020f80ba4a3-7aed-4021-b4d8-e4f50668847a,f80ba4a3-7aed-4021-b4d8-e4f50668847a,2020 IEEE International Joint Conference on Neural Network,2020
+2019f80ba4a3-7aed-4021-b4d8-e4f50668847a,f80ba4a3-7aed-4021-b4d8-e4f50668847a,2019 IEEE International Joint Conference on Neural Network,2019
+2018f80ba4a3-7aed-4021-b4d8-e4f50668847a,f80ba4a3-7aed-4021-b4d8-e4f50668847a,2018 IEEE International Joint Conference on Neural Network,2018
+2017f80ba4a3-7aed-4021-b4d8-e4f50668847a,f80ba4a3-7aed-4021-b4d8-e4f50668847a,2017 IEEE International Joint Conference on Neural Network,2017
+2016f80ba4a3-7aed-4021-b4d8-e4f50668847a,f80ba4a3-7aed-4021-b4d8-e4f50668847a,2016 IEEE International Joint Conference on Neural Network,2016
+2021234ccdc0-f58f-4f94-b86a-428d11a0c5ad,234ccdc0-f58f-4f94-b86a-428d11a0c5ad,2021 International Symposium on Information Theory,2021
+2020234ccdc0-f58f-4f94-b86a-428d11a0c5ad,234ccdc0-f58f-4f94-b86a-428d11a0c5ad,2020 International Symposium on Information Theory,2020
+2019234ccdc0-f58f-4f94-b86a-428d11a0c5ad,234ccdc0-f58f-4f94-b86a-428d11a0c5ad,2019 International Symposium on Information Theory,2019
+2018234ccdc0-f58f-4f94-b86a-428d11a0c5ad,234ccdc0-f58f-4f94-b86a-428d11a0c5ad,2018 International Symposium on Information Theory,2018
+2017234ccdc0-f58f-4f94-b86a-428d11a0c5ad,234ccdc0-f58f-4f94-b86a-428d11a0c5ad,2017 International Symposium on Information Theory,2017
+2020d79c0d2a-37de-4287-87e7-1e57576dcae7,d79c0d2a-37de-4287-87e7-1e57576dcae7,2020 International Conference on Machine Learning and Computing,2020
+2019d79c0d2a-37de-4287-87e7-1e57576dcae7,d79c0d2a-37de-4287-87e7-1e57576dcae7,2019 International Conference on Machine Learning and Computing,2019
+2018d79c0d2a-37de-4287-87e7-1e57576dcae7,d79c0d2a-37de-4287-87e7-1e57576dcae7,2018 International Conference on Machine Learning and Computing,2018
+2017d79c0d2a-37de-4287-87e7-1e57576dcae7,d79c0d2a-37de-4287-87e7-1e57576dcae7,2017 International Conference on Machine Learning and Computing,2017
+2016d79c0d2a-37de-4287-87e7-1e57576dcae7,d79c0d2a-37de-4287-87e7-1e57576dcae7,2016 International Conference on Machine Learning and Computing,2016
+2024a01f9bd5-61d7-4286-a051-30df17d78dda,a01f9bd5-61d7-4286-a051-30df17d78dda,2024 International Conference Laser Optics,2024
+2023a01f9bd5-61d7-4286-a051-30df17d78dda,a01f9bd5-61d7-4286-a051-30df17d78dda,2023 International Conference Laser Optics,2023
+2022a01f9bd5-61d7-4286-a051-30df17d78dda,a01f9bd5-61d7-4286-a051-30df17d78dda,2022 International Conference Laser Optics,2022
+2021a01f9bd5-61d7-4286-a051-30df17d78dda,a01f9bd5-61d7-4286-a051-30df17d78dda,2021 International Conference Laser Optics,2021
+2020a01f9bd5-61d7-4286-a051-30df17d78dda,a01f9bd5-61d7-4286-a051-30df17d78dda,2020 International Conference Laser Optics,2020
+20214c82b394-c401-4ce2-982e-7ab79de2bd24,4c82b394-c401-4ce2-982e-7ab79de2bd24,2021 IEEE International Conference on Healthcare Informatics,2021
+20204c82b394-c401-4ce2-982e-7ab79de2bd24,4c82b394-c401-4ce2-982e-7ab79de2bd24,2020 IEEE International Conference on Healthcare Informatics,2020
+20194c82b394-c401-4ce2-982e-7ab79de2bd24,4c82b394-c401-4ce2-982e-7ab79de2bd24,2019 IEEE International Conference on Healthcare Informatics,2019
+20184c82b394-c401-4ce2-982e-7ab79de2bd24,4c82b394-c401-4ce2-982e-7ab79de2bd24,2018 IEEE International Conference on Healthcare Informatics,2018
+20174c82b394-c401-4ce2-982e-7ab79de2bd24,4c82b394-c401-4ce2-982e-7ab79de2bd24,2017 IEEE International Conference on Healthcare Informatics,2017
+202073f7fe95-b68b-468f-b7ba-3013ca879e50,73f7fe95-b68b-468f-b7ba-3013ca879e50,2020 Conference on Computer and Communications Security,2020
+201973f7fe95-b68b-468f-b7ba-3013ca879e50,73f7fe95-b68b-468f-b7ba-3013ca879e50,2019 Conference on Computer and Communications Security,2019
+201873f7fe95-b68b-468f-b7ba-3013ca879e50,73f7fe95-b68b-468f-b7ba-3013ca879e50,2018 Conference on Computer and Communications Security,2018
+201773f7fe95-b68b-468f-b7ba-3013ca879e50,73f7fe95-b68b-468f-b7ba-3013ca879e50,2017 Conference on Computer and Communications Security,2017
+201673f7fe95-b68b-468f-b7ba-3013ca879e50,73f7fe95-b68b-468f-b7ba-3013ca879e50,2016 Conference on Computer and Communications Security,2016
+20203a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,3a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,2020 International Test Conference,2020
+20193a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,3a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,2019 International Test Conference,2019
+20183a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,3a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,2018 International Test Conference,2018
+20173a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,3a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,2017 International Test Conference,2017
+20163a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,3a9e0ec4-25fc-4a07-8b5c-b1500b7babaa,2016 International Test Conference,2016
+2024e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,"2024 IEEE International Conference on Systems, Man and Cybernetics",2024
+2023e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,"2023 IEEE International Conference on Systems, Man and Cybernetics",2023
+2022e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,"2022 IEEE International Conference on Systems, Man and Cybernetics",2022
+2021e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,"2021 IEEE International Conference on Systems, Man and Cybernetics",2021
+2020e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,"2020 IEEE International Conference on Systems, Man and Cybernetics",2020
+20248acaada7-7c03-41b4-bcef-65926e7ee9fb,8acaada7-7c03-41b4-bcef-65926e7ee9fb,2024 SoutheastCon,2024
+20238acaada7-7c03-41b4-bcef-65926e7ee9fb,8acaada7-7c03-41b4-bcef-65926e7ee9fb,2023 SoutheastCon,2023
+20228acaada7-7c03-41b4-bcef-65926e7ee9fb,8acaada7-7c03-41b4-bcef-65926e7ee9fb,2022 SoutheastCon,2022
+20218acaada7-7c03-41b4-bcef-65926e7ee9fb,8acaada7-7c03-41b4-bcef-65926e7ee9fb,2021 SoutheastCon,2021
+20208acaada7-7c03-41b4-bcef-65926e7ee9fb,8acaada7-7c03-41b4-bcef-65926e7ee9fb,2020 SoutheastCon,2020
+2005768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2005 Computer Vision and Pattern Recognition,2005
+2004768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2004 Computer Vision and Pattern Recognition,2004
+2003768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2003 Computer Vision and Pattern Recognition,2003
+2002768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2002 Computer Vision and Pattern Recognition,2002
+2001768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2001 Computer Vision and Pattern Recognition,2001
+20246336131c-2f71-4f61-bc3b-1bf31ec9fa3d,6336131c-2f71-4f61-bc3b-1bf31ec9fa3d,2024 International Conference on Computing for Sustainable Global Development,2024
+20236336131c-2f71-4f61-bc3b-1bf31ec9fa3d,6336131c-2f71-4f61-bc3b-1bf31ec9fa3d,2023 International Conference on Computing for Sustainable Global Development,2023
+20226336131c-2f71-4f61-bc3b-1bf31ec9fa3d,6336131c-2f71-4f61-bc3b-1bf31ec9fa3d,2022 International Conference on Computing for Sustainable Global Development,2022
+20216336131c-2f71-4f61-bc3b-1bf31ec9fa3d,6336131c-2f71-4f61-bc3b-1bf31ec9fa3d,2021 International Conference on Computing for Sustainable Global Development,2021
+20206336131c-2f71-4f61-bc3b-1bf31ec9fa3d,6336131c-2f71-4f61-bc3b-1bf31ec9fa3d,2020 International Conference on Computing for Sustainable Global Development,2020
+2023a04aa735-dc34-4b29-a70b-2cc395c25173,a04aa735-dc34-4b29-a70b-2cc395c25173,2023 Irish Signals and Systems Conference,2023
+2022a04aa735-dc34-4b29-a70b-2cc395c25173,a04aa735-dc34-4b29-a70b-2cc395c25173,2022 Irish Signals and Systems Conference,2022
+2021a04aa735-dc34-4b29-a70b-2cc395c25173,a04aa735-dc34-4b29-a70b-2cc395c25173,2021 Irish Signals and Systems Conference,2021
+2020a04aa735-dc34-4b29-a70b-2cc395c25173,a04aa735-dc34-4b29-a70b-2cc395c25173,2020 Irish Signals and Systems Conference,2020
+2019a04aa735-dc34-4b29-a70b-2cc395c25173,a04aa735-dc34-4b29-a70b-2cc395c25173,2019 Irish Signals and Systems Conference,2019
+202290d92c76-e905-4148-bc80-dc969d2eb683,90d92c76-e905-4148-bc80-dc969d2eb683,2022 IEEE International Conference on Smart Grid Communications,2022
+202190d92c76-e905-4148-bc80-dc969d2eb683,90d92c76-e905-4148-bc80-dc969d2eb683,2021 IEEE International Conference on Smart Grid Communications,2021
+202090d92c76-e905-4148-bc80-dc969d2eb683,90d92c76-e905-4148-bc80-dc969d2eb683,2020 IEEE International Conference on Smart Grid Communications,2020
+201990d92c76-e905-4148-bc80-dc969d2eb683,90d92c76-e905-4148-bc80-dc969d2eb683,2019 IEEE International Conference on Smart Grid Communications,2019
+201890d92c76-e905-4148-bc80-dc969d2eb683,90d92c76-e905-4148-bc80-dc969d2eb683,2018 IEEE International Conference on Smart Grid Communications,2018
+202322af107a-3e64-455e-92c6-82141a5a7e6a,22af107a-3e64-455e-92c6-82141a5a7e6a,2023 IET Networks,2023
+202222af107a-3e64-455e-92c6-82141a5a7e6a,22af107a-3e64-455e-92c6-82141a5a7e6a,2022 IET Networks,2022
+202122af107a-3e64-455e-92c6-82141a5a7e6a,22af107a-3e64-455e-92c6-82141a5a7e6a,2021 IET Networks,2021
+202022af107a-3e64-455e-92c6-82141a5a7e6a,22af107a-3e64-455e-92c6-82141a5a7e6a,2020 IET Networks,2020
+201922af107a-3e64-455e-92c6-82141a5a7e6a,22af107a-3e64-455e-92c6-82141a5a7e6a,2019 IET Networks,2019
+2024b305f4fd-5f09-4de4-b108-6a07a4218565,b305f4fd-5f09-4de4-b108-6a07a4218565,2024 Computer Assisted Radiology and Surgery - International Congress and Exhibition,2024
+2023b305f4fd-5f09-4de4-b108-6a07a4218565,b305f4fd-5f09-4de4-b108-6a07a4218565,2023 Computer Assisted Radiology and Surgery - International Congress and Exhibition,2023
+2022b305f4fd-5f09-4de4-b108-6a07a4218565,b305f4fd-5f09-4de4-b108-6a07a4218565,2022 Computer Assisted Radiology and Surgery - International Congress and Exhibition,2022
+2021b305f4fd-5f09-4de4-b108-6a07a4218565,b305f4fd-5f09-4de4-b108-6a07a4218565,2021 Computer Assisted Radiology and Surgery - International Congress and Exhibition,2021
+2020b305f4fd-5f09-4de4-b108-6a07a4218565,b305f4fd-5f09-4de4-b108-6a07a4218565,2020 Computer Assisted Radiology and Surgery - International Congress and Exhibition,2020
+201804c27a39-9b93-4b31-961a-c38ec6b40bbc,04c27a39-9b93-4b31-961a-c38ec6b40bbc,"2018 IEEE Annual Information Technology, Electronics and Mobile Communication Conference",2018
+201704c27a39-9b93-4b31-961a-c38ec6b40bbc,04c27a39-9b93-4b31-961a-c38ec6b40bbc,"2017 IEEE Annual Information Technology, Electronics and Mobile Communication Conference",2017
+201604c27a39-9b93-4b31-961a-c38ec6b40bbc,04c27a39-9b93-4b31-961a-c38ec6b40bbc,"2016 IEEE Annual Information Technology, Electronics and Mobile Communication Conference",2016
+201504c27a39-9b93-4b31-961a-c38ec6b40bbc,04c27a39-9b93-4b31-961a-c38ec6b40bbc,"2015 IEEE Annual Information Technology, Electronics and Mobile Communication Conference",2015
+201404c27a39-9b93-4b31-961a-c38ec6b40bbc,04c27a39-9b93-4b31-961a-c38ec6b40bbc,"2014 IEEE Annual Information Technology, Electronics and Mobile Communication Conference",2014
+20241c2ab05c-7d69-465e-929d-0920857aedce,1c2ab05c-7d69-465e-929d-0920857aedce,2024 International Conference on Automated Software Engineering,2024
+20231c2ab05c-7d69-465e-929d-0920857aedce,1c2ab05c-7d69-465e-929d-0920857aedce,2023 International Conference on Automated Software Engineering,2023
+20221c2ab05c-7d69-465e-929d-0920857aedce,1c2ab05c-7d69-465e-929d-0920857aedce,2022 International Conference on Automated Software Engineering,2022
+20211c2ab05c-7d69-465e-929d-0920857aedce,1c2ab05c-7d69-465e-929d-0920857aedce,2021 International Conference on Automated Software Engineering,2021
+20201c2ab05c-7d69-465e-929d-0920857aedce,1c2ab05c-7d69-465e-929d-0920857aedce,2020 International Conference on Automated Software Engineering,2020
+202443832dae-bddd-4002-9b5f-a11440fe6909,43832dae-bddd-4002-9b5f-a11440fe6909,2024 International Conference on the Digital Society,2024
+202343832dae-bddd-4002-9b5f-a11440fe6909,43832dae-bddd-4002-9b5f-a11440fe6909,2023 International Conference on the Digital Society,2023
+202243832dae-bddd-4002-9b5f-a11440fe6909,43832dae-bddd-4002-9b5f-a11440fe6909,2022 International Conference on the Digital Society,2022
+202143832dae-bddd-4002-9b5f-a11440fe6909,43832dae-bddd-4002-9b5f-a11440fe6909,2021 International Conference on the Digital Society,2021
+202043832dae-bddd-4002-9b5f-a11440fe6909,43832dae-bddd-4002-9b5f-a11440fe6909,2020 International Conference on the Digital Society,2020
+20163779a5a7-9119-4f69-84fe-f7eef193eb49,3779a5a7-9119-4f69-84fe-f7eef193eb49,2016 Conference on Computational Natural Language Learning,2016
+20153779a5a7-9119-4f69-84fe-f7eef193eb49,3779a5a7-9119-4f69-84fe-f7eef193eb49,2015 Conference on Computational Natural Language Learning,2015
+20143779a5a7-9119-4f69-84fe-f7eef193eb49,3779a5a7-9119-4f69-84fe-f7eef193eb49,2014 Conference on Computational Natural Language Learning,2014
+20133779a5a7-9119-4f69-84fe-f7eef193eb49,3779a5a7-9119-4f69-84fe-f7eef193eb49,2013 Conference on Computational Natural Language Learning,2013
+20123779a5a7-9119-4f69-84fe-f7eef193eb49,3779a5a7-9119-4f69-84fe-f7eef193eb49,2012 Conference on Computational Natural Language Learning,2012
+202466957f12-bbc3-43b5-b1e1-e7678f63b800,66957f12-bbc3-43b5-b1e1-e7678f63b800,2024 Latin American Symposium on Circuits and Systems,2024
+202366957f12-bbc3-43b5-b1e1-e7678f63b800,66957f12-bbc3-43b5-b1e1-e7678f63b800,2023 Latin American Symposium on Circuits and Systems,2023
+202266957f12-bbc3-43b5-b1e1-e7678f63b800,66957f12-bbc3-43b5-b1e1-e7678f63b800,2022 Latin American Symposium on Circuits and Systems,2022
+202166957f12-bbc3-43b5-b1e1-e7678f63b800,66957f12-bbc3-43b5-b1e1-e7678f63b800,2021 Latin American Symposium on Circuits and Systems,2021
+202066957f12-bbc3-43b5-b1e1-e7678f63b800,66957f12-bbc3-43b5-b1e1-e7678f63b800,2020 Latin American Symposium on Circuits and Systems,2020
+201797a677bb-0fa7-4c1d-a54e-24db1fb98dd5,97a677bb-0fa7-4c1d-a54e-24db1fb98dd5,2017 International Conference on Computational Intelligence and Communication Networks,2017
+201697a677bb-0fa7-4c1d-a54e-24db1fb98dd5,97a677bb-0fa7-4c1d-a54e-24db1fb98dd5,2016 International Conference on Computational Intelligence and Communication Networks,2016
+202234342fcb-3fe0-45c6-a017-6e65b73d030f,34342fcb-3fe0-45c6-a017-6e65b73d030f,2022 IEEE International Conference on e-Science,2022
+202134342fcb-3fe0-45c6-a017-6e65b73d030f,34342fcb-3fe0-45c6-a017-6e65b73d030f,2021 IEEE International Conference on e-Science,2021
+202034342fcb-3fe0-45c6-a017-6e65b73d030f,34342fcb-3fe0-45c6-a017-6e65b73d030f,2020 IEEE International Conference on e-Science,2020
+201934342fcb-3fe0-45c6-a017-6e65b73d030f,34342fcb-3fe0-45c6-a017-6e65b73d030f,2019 IEEE International Conference on e-Science,2019
+201834342fcb-3fe0-45c6-a017-6e65b73d030f,34342fcb-3fe0-45c6-a017-6e65b73d030f,2018 IEEE International Conference on e-Science,2018
+2019d9720b90-d60b-48bc-9df8-87a30b9a60dd,d9720b90-d60b-48bc-9df8-87a30b9a60dd,2019 Neural Information Processing Systems,2019
+2012625842ea-b2ac-4832-aa41-6bd142cfc9d9,625842ea-b2ac-4832-aa41-6bd142cfc9d9,2012 Annual Conference of the IEEE Industrial Electronics Society,2012
+2011625842ea-b2ac-4832-aa41-6bd142cfc9d9,625842ea-b2ac-4832-aa41-6bd142cfc9d9,2011 Annual Conference of the IEEE Industrial Electronics Society,2011
+2010625842ea-b2ac-4832-aa41-6bd142cfc9d9,625842ea-b2ac-4832-aa41-6bd142cfc9d9,2010 Annual Conference of the IEEE Industrial Electronics Society,2010
+2009625842ea-b2ac-4832-aa41-6bd142cfc9d9,625842ea-b2ac-4832-aa41-6bd142cfc9d9,2009 Annual Conference of the IEEE Industrial Electronics Society,2009
+2008625842ea-b2ac-4832-aa41-6bd142cfc9d9,625842ea-b2ac-4832-aa41-6bd142cfc9d9,2008 Annual Conference of the IEEE Industrial Electronics Society,2008
+20180dc0e794-53db-401d-bd8f-8da9165b2865,0dc0e794-53db-401d-bd8f-8da9165b2865,2018 International Conferences on Contemporary Computing and Informatics,2018
+20170dc0e794-53db-401d-bd8f-8da9165b2865,0dc0e794-53db-401d-bd8f-8da9165b2865,2017 International Conferences on Contemporary Computing and Informatics,2017
+20160dc0e794-53db-401d-bd8f-8da9165b2865,0dc0e794-53db-401d-bd8f-8da9165b2865,2016 International Conferences on Contemporary Computing and Informatics,2016
+20150dc0e794-53db-401d-bd8f-8da9165b2865,0dc0e794-53db-401d-bd8f-8da9165b2865,2015 International Conferences on Contemporary Computing and Informatics,2015
+20140dc0e794-53db-401d-bd8f-8da9165b2865,0dc0e794-53db-401d-bd8f-8da9165b2865,2014 International Conferences on Contemporary Computing and Informatics,2014
+2014f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,2014 ACM Multimedia,2014
+2013f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,2013 ACM Multimedia,2013
+2012f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,2012 ACM Multimedia,2012
+2011f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,2011 ACM Multimedia,2011
+2010f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,f2c85de5-7cfa-4b92-8714-a0fbdcf0274e,2010 ACM Multimedia,2010
+2023c1a3f23d-e3de-40a3-8d2d-187b921b61c8,c1a3f23d-e3de-40a3-8d2d-187b921b61c8,"2023 IEEE International Conference on Software Quality, Reliability and Security Companion",2023
+2022c1a3f23d-e3de-40a3-8d2d-187b921b61c8,c1a3f23d-e3de-40a3-8d2d-187b921b61c8,"2022 IEEE International Conference on Software Quality, Reliability and Security Companion",2022
+2021c1a3f23d-e3de-40a3-8d2d-187b921b61c8,c1a3f23d-e3de-40a3-8d2d-187b921b61c8,"2021 IEEE International Conference on Software Quality, Reliability and Security Companion",2021
+2020c1a3f23d-e3de-40a3-8d2d-187b921b61c8,c1a3f23d-e3de-40a3-8d2d-187b921b61c8,"2020 IEEE International Conference on Software Quality, Reliability and Security Companion",2020
+2019c1a3f23d-e3de-40a3-8d2d-187b921b61c8,c1a3f23d-e3de-40a3-8d2d-187b921b61c8,"2019 IEEE International Conference on Software Quality, Reliability and Security Companion",2019
+202356001f1b-2484-49f2-8919-c3b70164f58e,56001f1b-2484-49f2-8919-c3b70164f58e,2023 Artificial Intelligence and Symbolic Computation,2023
+202256001f1b-2484-49f2-8919-c3b70164f58e,56001f1b-2484-49f2-8919-c3b70164f58e,2022 Artificial Intelligence and Symbolic Computation,2022
+202156001f1b-2484-49f2-8919-c3b70164f58e,56001f1b-2484-49f2-8919-c3b70164f58e,2021 Artificial Intelligence and Symbolic Computation,2021
+202056001f1b-2484-49f2-8919-c3b70164f58e,56001f1b-2484-49f2-8919-c3b70164f58e,2020 Artificial Intelligence and Symbolic Computation,2020
+201956001f1b-2484-49f2-8919-c3b70164f58e,56001f1b-2484-49f2-8919-c3b70164f58e,2019 Artificial Intelligence and Symbolic Computation,2019
+201969951de1-74d3-4924-8e43-73f48a3d006a,69951de1-74d3-4924-8e43-73f48a3d006a,2019 IEEE Congress on Evolutionary Computation,2019
+201869951de1-74d3-4924-8e43-73f48a3d006a,69951de1-74d3-4924-8e43-73f48a3d006a,2018 IEEE Congress on Evolutionary Computation,2018
+201769951de1-74d3-4924-8e43-73f48a3d006a,69951de1-74d3-4924-8e43-73f48a3d006a,2017 IEEE Congress on Evolutionary Computation,2017
+201669951de1-74d3-4924-8e43-73f48a3d006a,69951de1-74d3-4924-8e43-73f48a3d006a,2016 IEEE Congress on Evolutionary Computation,2016
+201569951de1-74d3-4924-8e43-73f48a3d006a,69951de1-74d3-4924-8e43-73f48a3d006a,2015 IEEE Congress on Evolutionary Computation,2015
+2024a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,2024 Information Hiding and Multimedia Security Workshop,2024
+2023a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,2023 Information Hiding and Multimedia Security Workshop,2023
+2022a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,2022 Information Hiding and Multimedia Security Workshop,2022
+2021a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,2021 Information Hiding and Multimedia Security Workshop,2021
+2020a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,a787c1d1-6429-4d3e-b5f5-56ac11fc9bca,2020 Information Hiding and Multimedia Security Workshop,2020
+20245f087f3f-d96b-4da6-8049-604ac2349c44,5f087f3f-d96b-4da6-8049-604ac2349c44,2024 IEEE Aerospace Conference,2024
+20235f087f3f-d96b-4da6-8049-604ac2349c44,5f087f3f-d96b-4da6-8049-604ac2349c44,2023 IEEE Aerospace Conference,2023
+20225f087f3f-d96b-4da6-8049-604ac2349c44,5f087f3f-d96b-4da6-8049-604ac2349c44,2022 IEEE Aerospace Conference,2022
+20215f087f3f-d96b-4da6-8049-604ac2349c44,5f087f3f-d96b-4da6-8049-604ac2349c44,2021 IEEE Aerospace Conference,2021
+20205f087f3f-d96b-4da6-8049-604ac2349c44,5f087f3f-d96b-4da6-8049-604ac2349c44,2020 IEEE Aerospace Conference,2020
+2015f80ba4a3-7aed-4021-b4d8-e4f50668847a,f80ba4a3-7aed-4021-b4d8-e4f50668847a,2015 IEEE International Joint Conference on Neural Network,2015
+2022ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,2022 International Conference on Autonomic Computing and Self-Organizing Systems,2022
+2021ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,2021 International Conference on Autonomic Computing and Self-Organizing Systems,2021
+2020ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,2020 International Conference on Autonomic Computing and Self-Organizing Systems,2020
+2019ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,2019 International Conference on Autonomic Computing and Self-Organizing Systems,2019
+2018ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,ecc3036c-4c51-45be-8b2e-f5bb0ea3db40,2018 International Conference on Autonomic Computing and Self-Organizing Systems,2018
+20205353d583-6f50-4967-ab34-74338b908b90,5353d583-6f50-4967-ab34-74338b908b90,2020 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2020
+20195353d583-6f50-4967-ab34-74338b908b90,5353d583-6f50-4967-ab34-74338b908b90,2019 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2019
+20185353d583-6f50-4967-ab34-74338b908b90,5353d583-6f50-4967-ab34-74338b908b90,2018 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2018
+20175353d583-6f50-4967-ab34-74338b908b90,5353d583-6f50-4967-ab34-74338b908b90,2017 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2017
+20165353d583-6f50-4967-ab34-74338b908b90,5353d583-6f50-4967-ab34-74338b908b90,2016 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2016
+2023d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,2023 International Conferences on Information Technologies and Electrical Engineering,2023
+2022d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,2022 International Conferences on Information Technologies and Electrical Engineering,2022
+2021d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,2021 International Conferences on Information Technologies and Electrical Engineering,2021
+2020d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,2020 International Conferences on Information Technologies and Electrical Engineering,2020
+2019d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,d8a9bd17-0d6c-4608-8ca1-ad5c3aa863ef,2019 International Conferences on Information Technologies and Electrical Engineering,2019
+202460c45ccc-5528-42eb-85a9-7606a3d9b220,60c45ccc-5528-42eb-85a9-7606a3d9b220,2024 International Conference on Interaction Sciences,2024
+202360c45ccc-5528-42eb-85a9-7606a3d9b220,60c45ccc-5528-42eb-85a9-7606a3d9b220,2023 International Conference on Interaction Sciences,2023
+202260c45ccc-5528-42eb-85a9-7606a3d9b220,60c45ccc-5528-42eb-85a9-7606a3d9b220,2022 International Conference on Interaction Sciences,2022
+202160c45ccc-5528-42eb-85a9-7606a3d9b220,60c45ccc-5528-42eb-85a9-7606a3d9b220,2021 International Conference on Interaction Sciences,2021
+202060c45ccc-5528-42eb-85a9-7606a3d9b220,60c45ccc-5528-42eb-85a9-7606a3d9b220,2020 International Conference on Interaction Sciences,2020
+2022ad34e82f-f936-47a5-9c78-c4453dff3f60,ad34e82f-f936-47a5-9c78-c4453dff3f60,"2022 International Conference on Trust, Security and Privacy in Computing and Communications",2022
+2021ad34e82f-f936-47a5-9c78-c4453dff3f60,ad34e82f-f936-47a5-9c78-c4453dff3f60,"2021 International Conference on Trust, Security and Privacy in Computing and Communications",2021
+2020ad34e82f-f936-47a5-9c78-c4453dff3f60,ad34e82f-f936-47a5-9c78-c4453dff3f60,"2020 International Conference on Trust, Security and Privacy in Computing and Communications",2020
+2019ad34e82f-f936-47a5-9c78-c4453dff3f60,ad34e82f-f936-47a5-9c78-c4453dff3f60,"2019 International Conference on Trust, Security and Privacy in Computing and Communications",2019
+2018ad34e82f-f936-47a5-9c78-c4453dff3f60,ad34e82f-f936-47a5-9c78-c4453dff3f60,"2018 International Conference on Trust, Security and Privacy in Computing and Communications",2018
+202371b66afc-2aea-4b7b-89db-e557353969f6,71b66afc-2aea-4b7b-89db-e557353969f6,2023 International Conference on Computational Intelligence and Intelligent Systems,2023
+202271b66afc-2aea-4b7b-89db-e557353969f6,71b66afc-2aea-4b7b-89db-e557353969f6,2022 International Conference on Computational Intelligence and Intelligent Systems,2022
+202171b66afc-2aea-4b7b-89db-e557353969f6,71b66afc-2aea-4b7b-89db-e557353969f6,2021 International Conference on Computational Intelligence and Intelligent Systems,2021
+202071b66afc-2aea-4b7b-89db-e557353969f6,71b66afc-2aea-4b7b-89db-e557353969f6,2020 International Conference on Computational Intelligence and Intelligent Systems,2020
+201971b66afc-2aea-4b7b-89db-e557353969f6,71b66afc-2aea-4b7b-89db-e557353969f6,2019 International Conference on Computational Intelligence and Intelligent Systems,2019
+2022c5aefac7-151e-446e-8249-167c5b765a38,c5aefac7-151e-446e-8249-167c5b765a38,2022 International Conference of Soft Computing and Pattern Recognition,2022
+2021c5aefac7-151e-446e-8249-167c5b765a38,c5aefac7-151e-446e-8249-167c5b765a38,2021 International Conference of Soft Computing and Pattern Recognition,2021
+2020c5aefac7-151e-446e-8249-167c5b765a38,c5aefac7-151e-446e-8249-167c5b765a38,2020 International Conference of Soft Computing and Pattern Recognition,2020
+2019c5aefac7-151e-446e-8249-167c5b765a38,c5aefac7-151e-446e-8249-167c5b765a38,2019 International Conference of Soft Computing and Pattern Recognition,2019
+2018c5aefac7-151e-446e-8249-167c5b765a38,c5aefac7-151e-446e-8249-167c5b765a38,2018 International Conference of Soft Computing and Pattern Recognition,2018
+2014d7d7587f-a1e9-46a4-9db5-54c95787c6f1,d7d7587f-a1e9-46a4-9db5-54c95787c6f1,2014 Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2014
+2013d7d7587f-a1e9-46a4-9db5-54c95787c6f1,d7d7587f-a1e9-46a4-9db5-54c95787c6f1,2013 Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2013
+2012d7d7587f-a1e9-46a4-9db5-54c95787c6f1,d7d7587f-a1e9-46a4-9db5-54c95787c6f1,2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2012
+2011d7d7587f-a1e9-46a4-9db5-54c95787c6f1,d7d7587f-a1e9-46a4-9db5-54c95787c6f1,2011 Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2011
+2010d7d7587f-a1e9-46a4-9db5-54c95787c6f1,d7d7587f-a1e9-46a4-9db5-54c95787c6f1,2010 Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2010
+20248562fda3-aff2-4814-afe8-640547715626,8562fda3-aff2-4814-afe8-640547715626,2024 International Workshop on the Design of Reliable Communication Networks,2024
+20238562fda3-aff2-4814-afe8-640547715626,8562fda3-aff2-4814-afe8-640547715626,2023 International Workshop on the Design of Reliable Communication Networks,2023
+20228562fda3-aff2-4814-afe8-640547715626,8562fda3-aff2-4814-afe8-640547715626,2022 International Workshop on the Design of Reliable Communication Networks,2022
+20218562fda3-aff2-4814-afe8-640547715626,8562fda3-aff2-4814-afe8-640547715626,2021 International Workshop on the Design of Reliable Communication Networks,2021
+20208562fda3-aff2-4814-afe8-640547715626,8562fda3-aff2-4814-afe8-640547715626,2020 International Workshop on the Design of Reliable Communication Networks,2020
+2023f6752838-f268-4a1b-87e7-c5f30a36713c,f6752838-f268-4a1b-87e7-c5f30a36713c,2023 International Conference on Machine Learning and Applications,2023
+2022f6752838-f268-4a1b-87e7-c5f30a36713c,f6752838-f268-4a1b-87e7-c5f30a36713c,2022 International Conference on Machine Learning and Applications,2022
+2021f6752838-f268-4a1b-87e7-c5f30a36713c,f6752838-f268-4a1b-87e7-c5f30a36713c,2021 International Conference on Machine Learning and Applications,2021
+2020f6752838-f268-4a1b-87e7-c5f30a36713c,f6752838-f268-4a1b-87e7-c5f30a36713c,2020 International Conference on Machine Learning and Applications,2020
+2019f6752838-f268-4a1b-87e7-c5f30a36713c,f6752838-f268-4a1b-87e7-c5f30a36713c,2019 International Conference on Machine Learning and Applications,2019
+2018a279296e-0f43-4cb6-9483-01b403529f3c,a279296e-0f43-4cb6-9483-01b403529f3c,2018 International Conference on Pervasive Computing Technologies for Healthcare,2018
+2017a279296e-0f43-4cb6-9483-01b403529f3c,a279296e-0f43-4cb6-9483-01b403529f3c,2017 International Conference on Pervasive Computing Technologies for Healthcare,2017
+2016a279296e-0f43-4cb6-9483-01b403529f3c,a279296e-0f43-4cb6-9483-01b403529f3c,2016 International Conference on Pervasive Computing Technologies for Healthcare,2016
+2015a279296e-0f43-4cb6-9483-01b403529f3c,a279296e-0f43-4cb6-9483-01b403529f3c,2015 International Conference on Pervasive Computing Technologies for Healthcare,2015
+2014a279296e-0f43-4cb6-9483-01b403529f3c,a279296e-0f43-4cb6-9483-01b403529f3c,2014 International Conference on Pervasive Computing Technologies for Healthcare,2014
+20202cbf9479-e1fa-4c75-81f6-7103e18156ca,2cbf9479-e1fa-4c75-81f6-7103e18156ca,2020 Chinese Control and Decision Conference,2020
+20192cbf9479-e1fa-4c75-81f6-7103e18156ca,2cbf9479-e1fa-4c75-81f6-7103e18156ca,2019 Chinese Control and Decision Conference,2019
+20182cbf9479-e1fa-4c75-81f6-7103e18156ca,2cbf9479-e1fa-4c75-81f6-7103e18156ca,2018 Chinese Control and Decision Conference,2018
+20172cbf9479-e1fa-4c75-81f6-7103e18156ca,2cbf9479-e1fa-4c75-81f6-7103e18156ca,2017 Chinese Control and Decision Conference,2017
+20162cbf9479-e1fa-4c75-81f6-7103e18156ca,2cbf9479-e1fa-4c75-81f6-7103e18156ca,2016 Chinese Control and Decision Conference,2016
+202272b1619c-55d6-4f98-9218-23cd8aa74091,72b1619c-55d6-4f98-9218-23cd8aa74091,"2022 IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2022
+202172b1619c-55d6-4f98-9218-23cd8aa74091,72b1619c-55d6-4f98-9218-23cd8aa74091,"2021 IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2021
+202072b1619c-55d6-4f98-9218-23cd8aa74091,72b1619c-55d6-4f98-9218-23cd8aa74091,"2020 IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2020
+201972b1619c-55d6-4f98-9218-23cd8aa74091,72b1619c-55d6-4f98-9218-23cd8aa74091,"2019 IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2019
+201872b1619c-55d6-4f98-9218-23cd8aa74091,72b1619c-55d6-4f98-9218-23cd8aa74091,"2018 IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2018
+201847c47088-7640-441b-85ba-375fe8f5c3a4,47c47088-7640-441b-85ba-375fe8f5c3a4,2018 International Conference on Computing Communication and Networking Technologies,2018
+201747c47088-7640-441b-85ba-375fe8f5c3a4,47c47088-7640-441b-85ba-375fe8f5c3a4,2017 International Conference on Computing Communication and Networking Technologies,2017
+201647c47088-7640-441b-85ba-375fe8f5c3a4,47c47088-7640-441b-85ba-375fe8f5c3a4,2016 International Conference on Computing Communication and Networking Technologies,2016
+2025d919571a-3e54-49a5-a4ab-2a62647ee280,d919571a-3e54-49a5-a4ab-2a62647ee280,"2025 International Conference on Image Processing, Applications and Systems",2025
+2024d919571a-3e54-49a5-a4ab-2a62647ee280,d919571a-3e54-49a5-a4ab-2a62647ee280,"2024 International Conference on Image Processing, Applications and Systems",2024
+2023d919571a-3e54-49a5-a4ab-2a62647ee280,d919571a-3e54-49a5-a4ab-2a62647ee280,"2023 International Conference on Image Processing, Applications and Systems",2023
+2022d919571a-3e54-49a5-a4ab-2a62647ee280,d919571a-3e54-49a5-a4ab-2a62647ee280,"2022 International Conference on Image Processing, Applications and Systems",2022
+2021d919571a-3e54-49a5-a4ab-2a62647ee280,d919571a-3e54-49a5-a4ab-2a62647ee280,"2021 International Conference on Image Processing, Applications and Systems",2021
+20190b3ee9d9-f675-4051-87b1-08bf4319e8aa,0b3ee9d9-f675-4051-87b1-08bf4319e8aa,2019 International Conference on Software and Computer Applications,2019
+20180b3ee9d9-f675-4051-87b1-08bf4319e8aa,0b3ee9d9-f675-4051-87b1-08bf4319e8aa,2018 International Conference on Software and Computer Applications,2018
+20170b3ee9d9-f675-4051-87b1-08bf4319e8aa,0b3ee9d9-f675-4051-87b1-08bf4319e8aa,2017 International Conference on Software and Computer Applications,2017
+20160b3ee9d9-f675-4051-87b1-08bf4319e8aa,0b3ee9d9-f675-4051-87b1-08bf4319e8aa,2016 International Conference on Software and Computer Applications,2016
+20150b3ee9d9-f675-4051-87b1-08bf4319e8aa,0b3ee9d9-f675-4051-87b1-08bf4319e8aa,2015 International Conference on Software and Computer Applications,2015
+2012f5af95d8-4140-4a0b-adf7-4f2b9d158df9,f5af95d8-4140-4a0b-adf7-4f2b9d158df9,2012 Annual SRII Global Conference,2012
+2011f5af95d8-4140-4a0b-adf7-4f2b9d158df9,f5af95d8-4140-4a0b-adf7-4f2b9d158df9,2011 Annual SRII Global Conference,2011
+2010f5af95d8-4140-4a0b-adf7-4f2b9d158df9,f5af95d8-4140-4a0b-adf7-4f2b9d158df9,2010 Annual SRII Global Conference,2010
+2009f5af95d8-4140-4a0b-adf7-4f2b9d158df9,f5af95d8-4140-4a0b-adf7-4f2b9d158df9,2009 Annual SRII Global Conference,2009
+2008f5af95d8-4140-4a0b-adf7-4f2b9d158df9,f5af95d8-4140-4a0b-adf7-4f2b9d158df9,2008 Annual SRII Global Conference,2008
+2024d11025b6-9660-45df-b13a-555e3ff4ceca,d11025b6-9660-45df-b13a-555e3ff4ceca,2024 International Conference on Multimodal Interaction,2024
+2023d11025b6-9660-45df-b13a-555e3ff4ceca,d11025b6-9660-45df-b13a-555e3ff4ceca,2023 International Conference on Multimodal Interaction,2023
+2022d11025b6-9660-45df-b13a-555e3ff4ceca,d11025b6-9660-45df-b13a-555e3ff4ceca,2022 International Conference on Multimodal Interaction,2022
+2021d11025b6-9660-45df-b13a-555e3ff4ceca,d11025b6-9660-45df-b13a-555e3ff4ceca,2021 International Conference on Multimodal Interaction,2021
+2020d11025b6-9660-45df-b13a-555e3ff4ceca,d11025b6-9660-45df-b13a-555e3ff4ceca,2020 International Conference on Multimodal Interaction,2020
+2020c1a741b4-d5a6-4f2f-8701-9191c4e3591d,c1a741b4-d5a6-4f2f-8701-9191c4e3591d,"2020 International Conference Bioscience, Biochemistry and Bioinformatics",2020
+2019c1a741b4-d5a6-4f2f-8701-9191c4e3591d,c1a741b4-d5a6-4f2f-8701-9191c4e3591d,"2019 International Conference Bioscience, Biochemistry and Bioinformatics",2019
+2018c1a741b4-d5a6-4f2f-8701-9191c4e3591d,c1a741b4-d5a6-4f2f-8701-9191c4e3591d,"2018 International Conference Bioscience, Biochemistry and Bioinformatics",2018
+2017c1a741b4-d5a6-4f2f-8701-9191c4e3591d,c1a741b4-d5a6-4f2f-8701-9191c4e3591d,"2017 International Conference Bioscience, Biochemistry and Bioinformatics",2017
+2016c1a741b4-d5a6-4f2f-8701-9191c4e3591d,c1a741b4-d5a6-4f2f-8701-9191c4e3591d,"2016 International Conference Bioscience, Biochemistry and Bioinformatics",2016
+2013a88140cf-3ca8-46c2-b1f7-446f137cf336,a88140cf-3ca8-46c2-b1f7-446f137cf336,2013 Frontiers in Education Conference,2013
+2012a88140cf-3ca8-46c2-b1f7-446f137cf336,a88140cf-3ca8-46c2-b1f7-446f137cf336,2012 Frontiers in Education Conference,2012
+2011a88140cf-3ca8-46c2-b1f7-446f137cf336,a88140cf-3ca8-46c2-b1f7-446f137cf336,2011 Frontiers in Education Conference,2011
+2010a88140cf-3ca8-46c2-b1f7-446f137cf336,a88140cf-3ca8-46c2-b1f7-446f137cf336,2010 Frontiers in Education Conference,2010
+2009a88140cf-3ca8-46c2-b1f7-446f137cf336,a88140cf-3ca8-46c2-b1f7-446f137cf336,2009 Frontiers in Education Conference,2009
+2020e574da12-4e4c-4b78-a203-ae3719c0c4f7,e574da12-4e4c-4b78-a203-ae3719c0c4f7,2020 Annual International Computer Software and Applications Conference,2020
+2019e574da12-4e4c-4b78-a203-ae3719c0c4f7,e574da12-4e4c-4b78-a203-ae3719c0c4f7,2019 Annual International Computer Software and Applications Conference,2019
+2018e574da12-4e4c-4b78-a203-ae3719c0c4f7,e574da12-4e4c-4b78-a203-ae3719c0c4f7,2018 Annual International Computer Software and Applications Conference,2018
+2017e574da12-4e4c-4b78-a203-ae3719c0c4f7,e574da12-4e4c-4b78-a203-ae3719c0c4f7,2017 Annual International Computer Software and Applications Conference,2017
+2016e574da12-4e4c-4b78-a203-ae3719c0c4f7,e574da12-4e4c-4b78-a203-ae3719c0c4f7,2016 Annual International Computer Software and Applications Conference,2016
+2020044da3ee-0859-4414-b130-ace3e194e772,044da3ee-0859-4414-b130-ace3e194e772,2020 International Conference on Learning Analytics and Knowledge,2020
+2019044da3ee-0859-4414-b130-ace3e194e772,044da3ee-0859-4414-b130-ace3e194e772,2019 International Conference on Learning Analytics and Knowledge,2019
+2018044da3ee-0859-4414-b130-ace3e194e772,044da3ee-0859-4414-b130-ace3e194e772,2018 International Conference on Learning Analytics and Knowledge,2018
+2017044da3ee-0859-4414-b130-ace3e194e772,044da3ee-0859-4414-b130-ace3e194e772,2017 International Conference on Learning Analytics and Knowledge,2017
+2016044da3ee-0859-4414-b130-ace3e194e772,044da3ee-0859-4414-b130-ace3e194e772,2016 International Conference on Learning Analytics and Knowledge,2016
+20167cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,7cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,2016 Consumer Communications and Networking Conference,2016
+20157cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,7cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,2015 Consumer Communications and Networking Conference,2015
+20147cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,7cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,2014 Consumer Communications and Networking Conference,2014
+20137cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,7cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,2013 Consumer Communications and Networking Conference,2013
+20127cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,7cd7bf33-3c9a-4b3f-8b1a-177673c6ca73,2012 Consumer Communications and Networking Conference,2012
+20216bbd7892-a24b-48fc-b52d-c91cdb1bac13,6bbd7892-a24b-48fc-b52d-c91cdb1bac13,2021 International Conference on Computer Science and Artificial Intelligence,2021
+20206bbd7892-a24b-48fc-b52d-c91cdb1bac13,6bbd7892-a24b-48fc-b52d-c91cdb1bac13,2020 International Conference on Computer Science and Artificial Intelligence,2020
+20196bbd7892-a24b-48fc-b52d-c91cdb1bac13,6bbd7892-a24b-48fc-b52d-c91cdb1bac13,2019 International Conference on Computer Science and Artificial Intelligence,2019
+20186bbd7892-a24b-48fc-b52d-c91cdb1bac13,6bbd7892-a24b-48fc-b52d-c91cdb1bac13,2018 International Conference on Computer Science and Artificial Intelligence,2018
+20176bbd7892-a24b-48fc-b52d-c91cdb1bac13,6bbd7892-a24b-48fc-b52d-c91cdb1bac13,2017 International Conference on Computer Science and Artificial Intelligence,2017
+2024f49c28f8-195e-44cd-94be-23a1664c0183,f49c28f8-195e-44cd-94be-23a1664c0183,2024 IEEE International Conference on Circuits and Systems for Communications,2024
+2023f49c28f8-195e-44cd-94be-23a1664c0183,f49c28f8-195e-44cd-94be-23a1664c0183,2023 IEEE International Conference on Circuits and Systems for Communications,2023
+2022f49c28f8-195e-44cd-94be-23a1664c0183,f49c28f8-195e-44cd-94be-23a1664c0183,2022 IEEE International Conference on Circuits and Systems for Communications,2022
+2021f49c28f8-195e-44cd-94be-23a1664c0183,f49c28f8-195e-44cd-94be-23a1664c0183,2021 IEEE International Conference on Circuits and Systems for Communications,2021
+2020f49c28f8-195e-44cd-94be-23a1664c0183,f49c28f8-195e-44cd-94be-23a1664c0183,2020 IEEE International Conference on Circuits and Systems for Communications,2020
+2022589ed020-784b-47ac-884d-9c6ae29fd509,589ed020-784b-47ac-884d-9c6ae29fd509,2022 International Conference Intelligent Computing and Control Systems,2022
+2021589ed020-784b-47ac-884d-9c6ae29fd509,589ed020-784b-47ac-884d-9c6ae29fd509,2021 International Conference Intelligent Computing and Control Systems,2021
+2020589ed020-784b-47ac-884d-9c6ae29fd509,589ed020-784b-47ac-884d-9c6ae29fd509,2020 International Conference Intelligent Computing and Control Systems,2020
+2019589ed020-784b-47ac-884d-9c6ae29fd509,589ed020-784b-47ac-884d-9c6ae29fd509,2019 International Conference Intelligent Computing and Control Systems,2019
+2018589ed020-784b-47ac-884d-9c6ae29fd509,589ed020-784b-47ac-884d-9c6ae29fd509,2018 International Conference Intelligent Computing and Control Systems,2018
+2023966ed49f-abb2-4051-a7e7-c966d9426b85,966ed49f-abb2-4051-a7e7-c966d9426b85,2023 International Conference on Network of the Future,2023
+2022966ed49f-abb2-4051-a7e7-c966d9426b85,966ed49f-abb2-4051-a7e7-c966d9426b85,2022 International Conference on Network of the Future,2022
+2021966ed49f-abb2-4051-a7e7-c966d9426b85,966ed49f-abb2-4051-a7e7-c966d9426b85,2021 International Conference on Network of the Future,2021
+2020966ed49f-abb2-4051-a7e7-c966d9426b85,966ed49f-abb2-4051-a7e7-c966d9426b85,2020 International Conference on Network of the Future,2020
+2019966ed49f-abb2-4051-a7e7-c966d9426b85,966ed49f-abb2-4051-a7e7-c966d9426b85,2019 International Conference on Network of the Future,2019
+20188f125553-3fd5-4370-a175-f7179db29048,8f125553-3fd5-4370-a175-f7179db29048,"2018 IEEE International Performance, Computing, and Communications Conference",2018
+1982c56116d3-225c-47c9-a4d9-f935e32f846c,c56116d3-225c-47c9-a4d9-f935e32f846c,1982 IEEE Vehicular Technology Conference,1982
+2023fc0a208c-acb7-47dc-a0d4-af8190e21d29,fc0a208c-acb7-47dc-a0d4-af8190e21d29,2023 International Conference on Machine Learning,2023
+2023595ab61a-e207-4f43-b0fd-46f575477e98,595ab61a-e207-4f43-b0fd-46f575477e98,2023 International Conference on Algorithmic Learning Theory,2023
+2023b49868ed-865c-4154-b70a-8d34e341cf68,b49868ed-865c-4154-b70a-8d34e341cf68,2023 IEEE/ACM International Conference on Human-Robot Interaction,2023
+20137654260e-79f9-45c5-9663-d72027cf88f3,7654260e-79f9-45c5-9663-d72027cf88f3,2013 IEEE International Conference on Computer Vision,2013
+201867f04833-e136-4a78-839c-e064a4891df0,67f04833-e136-4a78-839c-e064a4891df0,2018 Australasian Computer-Human Interaction Conference,2018
+2018f64c407a-1940-4e4e-a097-a12dd71a34b5,f64c407a-1940-4e4e-a097-a12dd71a34b5,2018 IFAC Symposium on Advances in Control Education,2018
+201660c45ccc-5528-42eb-85a9-7606a3d9b220,60c45ccc-5528-42eb-85a9-7606a3d9b220,2016 International Conference on Interaction Sciences,2016
+201547e4f61e-9b0e-431f-bd17-e534b53c655b,47e4f61e-9b0e-431f-bd17-e534b53c655b,2015 International Conference on Intelligent Computing,2015
+2015764e3630-ddac-4c21-af4b-9d32ffef082e,764e3630-ddac-4c21-af4b-9d32ffef082e,2015 IEEE International Conference on Data Engineering,2015
+2019a36dc29e-4ea1-4567-b0fe-1c06daf8bee8,a36dc29e-4ea1-4567-b0fe-1c06daf8bee8,2019 International Conference on Software Engineering,2019
+2007fc0a208c-acb7-47dc-a0d4-af8190e21d29,fc0a208c-acb7-47dc-a0d4-af8190e21d29,2007 International Conference on Machine Learning,2007
+2005f6752838-f268-4a1b-87e7-c5f30a36713c,f6752838-f268-4a1b-87e7-c5f30a36713c,2005 International Conference on Machine Learning and Applications,2005
+200467d15a94-d523-4b5f-be58-03fe2ef9dcfb,67d15a94-d523-4b5f-be58-03fe2ef9dcfb,2004 Industrial Conference on Data Mining,2004
+201573f7fe95-b68b-468f-b7ba-3013ca879e50,73f7fe95-b68b-468f-b7ba-3013ca879e50,2015 Conference on Computer and Communications Security,2015
+2019f6b96a8f-dc43-4d21-99cf-0f2532b7f01f,f6b96a8f-dc43-4d21-99cf-0f2532b7f01f,2019 International Conference on Agents and Artificial Intelligence,2019
+2007b8d8437f-4a22-4452-9d2c-60d7d9d14eac,b8d8437f-4a22-4452-9d2c-60d7d9d14eac,2007 International Conference on Intelligent Systems Design and Applications,2007
+20097d33d3d7-0473-4e14-8ec7-e601cb2a9959,7d33d3d7-0473-4e14-8ec7-e601cb2a9959,"2009 Rough Sets, Fuzzy Sets, Data Mining, and Granular Computing",2009
+200666e8920f-d30a-439b-9e9c-bcfb052b0cfa,66e8920f-d30a-439b-9e9c-bcfb052b0cfa,2006 International Conferences on Biological Information and Biomedical Engineering,2006
+2022fc0a208c-acb7-47dc-a0d4-af8190e21d29,fc0a208c-acb7-47dc-a0d4-af8190e21d29,2022 International Conference on Machine Learning,2022
+2020e251322f-1b8a-43c4-ae82-44aaa356cd4f,e251322f-1b8a-43c4-ae82-44aaa356cd4f,"2020 International Conference on Cryptography, Security and Privacy",2020
+20217431ff67-91dc-41fa-b322-1b1ca657025f,7431ff67-91dc-41fa-b322-1b1ca657025f,2021 International Conference on Information and Knowledge Management,2021
+2010dee2646c-57cc-4b8b-92c8-98d0d78d35cf,dee2646c-57cc-4b8b-92c8-98d0d78d35cf,2010 International Conference on Predictive Models in Software Engineering,2010
+2020bc2cdfd0-5fc9-4aa5-9513-281e92c65f76,bc2cdfd0-5fc9-4aa5-9513-281e92c65f76,2020 Artificial Intelligence Applications and Innovations,2020
+20198239be90-1ceb-4f3e-8fbe-73cefe263906,8239be90-1ceb-4f3e-8fbe-73cefe263906,2019 Advanced Semiconductor Manufacturing Conference,2019
+20187224ccee-f25f-4ec7-bf06-cb31f818099e,7224ccee-f25f-4ec7-bf06-cb31f818099e,2018 IFIP International Conference on Embedded and Ubiquitous Computing,2018
+200148c16163-36d3-4db2-9fad-44f4c5eb7007,48c16163-36d3-4db2-9fad-44f4c5eb7007,2001 IEEE/ACM International Conference on Grid Computing,2001
+1998020592b2-4d8b-41fd-8b77-be8f7370b0ad,020592b2-4d8b-41fd-8b77-be8f7370b0ad,1998 Job Scheduling Strategies for Parallel Processing,1998
+1997020592b2-4d8b-41fd-8b77-be8f7370b0ad,020592b2-4d8b-41fd-8b77-be8f7370b0ad,1997 Job Scheduling Strategies for Parallel Processing,1997
+20160d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2016 IEEE International Conference on Acoustics, Speech, and Signal Processing",2016
+20220d6f7fba-7092-46b3-8039-93458dba736b,0d6f7fba-7092-46b3-8039-93458dba736b,"2022 IEEE International Conference on Acoustics, Speech, and Signal Processing",2022
+2022d7d7587f-a1e9-46a4-9db5-54c95787c6f1,d7d7587f-a1e9-46a4-9db5-54c95787c6f1,2022 Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2022
+2020768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2020 Computer Vision and Pattern Recognition,2020
+2020b6369c33-5d70-463c-8e82-95a54efa3cc8,b6369c33-5d70-463c-8e82-95a54efa3cc8,2020 International Conference on Information Photonics,2020
+2019768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2019 Computer Vision and Pattern Recognition,2019
+2019991e8cbf-4a4a-4ac4-a273-63dd7a35c364,991e8cbf-4a4a-4ac4-a273-63dd7a35c364,2019 IEEE International Conference on Document Analysis and Recognition,2019
+20197654260e-79f9-45c5-9663-d72027cf88f3,7654260e-79f9-45c5-9663-d72027cf88f3,2019 IEEE International Conference on Computer Vision,2019
+2014ca8e29a4-b8d6-469e-a148-2156149cddfb,ca8e29a4-b8d6-469e-a148-2156149cddfb,2014 International Conference on Advanced Learning Technologies,2014
+20116f3847e1-ed07-40d0-a0d4-98f72bd0b658,6f3847e1-ed07-40d0-a0d4-98f72bd0b658,2011 World Congress on Computer Science and Information Engineering,2011
+20227ddefda0-174f-499a-9dce-855879dd01b7,7ddefda0-174f-499a-9dce-855879dd01b7,"2022 IEEE International Symposium on Parallel & Distributed Processing, Workshops and Phd Forum",2022
+20214539abfb-20e2-438c-a6d0-61dd915da9df,4539abfb-20e2-438c-a6d0-61dd915da9df,2021 IEEE Workshop on Local and Metropolitan Area Networks,2021
+20205ea3b256-b7b3-4ce5-b0cb-a6bee512e027,5ea3b256-b7b3-4ce5-b0cb-a6bee512e027,2020 International Conference on Field-Programmable Technology,2020
+201946990654-eb6c-4674-96bc-ba905dab2a86,46990654-eb6c-4674-96bc-ba905dab2a86,2019 International Conference on Conceptual Structures,2019
+201839b53b85-e4a9-4507-baea-332cb19f559d,39b53b85-e4a9-4507-baea-332cb19f559d,2018 Heart,2018
+2019a9e5a34f-a71a-4cd8-bac7-9e902fa6d088,a9e5a34f-a71a-4cd8-bac7-9e902fa6d088,2019 IEEE Conference on Local Computer Networks,2019
+20201f4f5bef-7bb5-46cf-8b89-723b4a1e7572,1f4f5bef-7bb5-46cf-8b89-723b4a1e7572,"2020 IEEE International Autumn Meeting on Power, Electronics and Computing",2020
+201661275a16-1e0d-479f-ac4e-f295310761f0,61275a16-1e0d-479f-ac4e-f295310761f0,2016 ACM Conference on Recommender Systems,2016
+2023af806702-8820-45ae-9a4e-2073e928bdef,af806702-8820-45ae-9a4e-2073e928bdef,2023 Annual Conference on Information Sciences and Systems,2023
+2021a57e2e51-6dd9-4f33-9a03-b31784a38e1e,a57e2e51-6dd9-4f33-9a03-b31784a38e1e,2021 Bioinformatics and Computational Biology,2021
+202046990654-eb6c-4674-96bc-ba905dab2a86,46990654-eb6c-4674-96bc-ba905dab2a86,2020 International Conference on Conceptual Structures,2020
+2020e07422f9-c065-40c3-a37b-75e98dce79fe,e07422f9-c065-40c3-a37b-75e98dce79fe,2020 The Web Conference,2020
+20171e33b3be-b2ab-46e9-96e8-d4eb4bad6e44,1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44,2017 Annual Meeting of the Association for Computational Linguistics,2017
+201967f7f831-711a-43c8-8785-1e09005359b5,67f7f831-711a-43c8-8785-1e09005359b5,2019 International Joint Conference on Artificial Intelligence,2019
+2018bdc2e585-4e48-4e36-8af1-6d859763d405,bdc2e585-4e48-4e36-8af1-6d859763d405,2018 AAAI Conference on Artificial Intelligence,2018
+2014bdc2e585-4e48-4e36-8af1-6d859763d405,bdc2e585-4e48-4e36-8af1-6d859763d405,2014 AAAI Conference on Artificial Intelligence,2014
+20216ffd3030-fbaa-4915-9ec8-888f211c7b73,6ffd3030-fbaa-4915-9ec8-888f211c7b73,2021 International Computer Science and Engineering Conference,2021
+2024fc0a208c-acb7-47dc-a0d4-af8190e21d29,fc0a208c-acb7-47dc-a0d4-af8190e21d29,2024 International Conference on Machine Learning,2024
+2023939c6e1d-0d17-4d6e-8a82-66d960df0e40,939c6e1d-0d17-4d6e-8a82-66d960df0e40,2023 International Conference on Learning Representations,2023
+2016a0edb93b-1e95-4128-a295-6b1659149cef,a0edb93b-1e95-4128-a295-6b1659149cef,2016 Knowledge Discovery and Data Mining,2016
+2023ecd69639-52a0-4d29-af57-21bca9e0a66b,ecd69639-52a0-4d29-af57-21bca9e0a66b,2023 IEEE International Conference on Industrial Engineering and Engineering Management,2023
+20235836d652-d560-49e5-bcca-a468931b361b,5836d652-d560-49e5-bcca-a468931b361b,2023 International Conference on Applied Informatics,2023
+20223ff2f80e-fec3-4953-ad4e-b56dcfd9e5f8,3ff2f80e-fec3-4953-ad4e-b56dcfd9e5f8,2022 National Power Systems Conference,2022
+2022cb412b07-569e-4466-bb5f-8692701b1816,cb412b07-569e-4466-bb5f-8692701b1816,2022 International Symposium on Environmental Friendly Energies and Applications,2022
+20099d988347-1c3c-4cf9-9b6f-d15117510bf4,9d988347-1c3c-4cf9-9b6f-d15117510bf4,2009 International Symposium on Empirical Software Engineering and Measurement,2009
+2009d07398dc-56ba-4cbf-86a1-fa3c00afeb38,d07398dc-56ba-4cbf-86a1-fa3c00afeb38,2009 International Conference on Electronic Measurement and Instruments,2009
+2024661ae2a4-ae88-4ce1-a7a3-73bb04510f92,661ae2a4-ae88-4ce1-a7a3-73bb04510f92,2024 International Conference on Smart Communications and Networking,2024
+201449c72bc9-58a4-462b-93a0-86635b48a533,49c72bc9-58a4-462b-93a0-86635b48a533,2014 IFIP Working Conference on Database Semantics,2014
+20219dfcbe95-98ae-4d57-ad6b-120e01480e4b,9dfcbe95-98ae-4d57-ad6b-120e01480e4b,2021 International Conference on Human Interaction and Emerging Technologies,2021
+2017768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2017 Computer Vision and Pattern Recognition,2017
+20177654260e-79f9-45c5-9663-d72027cf88f3,7654260e-79f9-45c5-9663-d72027cf88f3,2017 IEEE International Conference on Computer Vision,2017
+2016167fa0ca-e88a-4ef7-a16f-bc66c457c806,167fa0ca-e88a-4ef7-a16f-bc66c457c806,2016 European Conference on Computer Vision,2016
+2016acd15a6d-3248-41fb-8439-9a40aabe5608,acd15a6d-3248-41fb-8439-9a40aabe5608,2016 IEEE Workshop/Winter Conference on Applications of Computer Vision,2016
+202174f72915-6d78-48b3-85dc-5f79881ab60b,74f72915-6d78-48b3-85dc-5f79881ab60b,2021 International Conference on Data Science in Cyberspace,2021
+20197f92b1d2-f2b3-454d-adbe-ff02c83fe404,7f92b1d2-f2b3-454d-adbe-ff02c83fe404,2019 IEEE Conference on Computer Communications,2019
+2016a1be828b-04e6-44c1-a946-650994c2164f,a1be828b-04e6-44c1-a946-650994c2164f,2016 Database Security,2016
+201587fc9c3c-cc7f-42aa-ba71-2700729a6788,87fc9c3c-cc7f-42aa-ba71-2700729a6788,2015 ACM Asia Conference on Computer and Communications Security,2015
+201473f7fe95-b68b-468f-b7ba-3013ca879e50,73f7fe95-b68b-468f-b7ba-3013ca879e50,2014 Conference on Computer and Communications Security,2014
+20178de18c35-6785-4e54-99f2-21ee961302c6,8de18c35-6785-4e54-99f2-21ee961302c6,2017 Conference of the European Chapter of the Association for Computational Linguistics,2017
+20169aacb914-3edf-4e02-b8fe-5abf21c4d2ba,9aacb914-3edf-4e02-b8fe-5abf21c4d2ba,2016 Conference on Machine Translation,2016
+20151e33b3be-b2ab-46e9-96e8-d4eb4bad6e44,1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44,2015 Annual Meeting of the Association for Computational Linguistics,2015
+2021768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2021 Computer Vision and Pattern Recognition,2021
+2023993f3f1d-c231-4a43-8ff0-53c0810c7f7c,993f3f1d-c231-4a43-8ff0-53c0810c7f7c,"2023 International Conference on Systems, Signals, and Image Processing",2023
+2022ebcbaf26-62a6-4cb2-b637-b29091ca04d6,ebcbaf26-62a6-4cb2-b637-b29091ca04d6,2022 European Signal Processing Conference,2022
+20083e64b1c1-745f-4edf-bd92-b8ef122bb49c,3e64b1c1-745f-4edf-bd92-b8ef122bb49c,2008 International Conference on Artificial Neural Networks,2008
+20163dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2016 Italian National Conference on Sensors,2016
+20153dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2015 Italian National Conference on Sensors,2015
+202069abe422-ea90-45e0-a2e2-3aa1f126bf22,69abe422-ea90-45e0-a2e2-3aa1f126bf22,2020 National Conference on Communications,2020
+2017c6ced65d-fcf7-4e5f-bedd-01360247ebbe,c6ced65d-fcf7-4e5f-bedd-01360247ebbe,"2017 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",2017
+20177f92b1d2-f2b3-454d-adbe-ff02c83fe404,7f92b1d2-f2b3-454d-adbe-ff02c83fe404,2017 IEEE Conference on Computer Communications,2017
+20236bf48d72-eba2-4918-b9a0-153280062513,6bf48d72-eba2-4918-b9a0-153280062513,2023 International Computer Science Conference,2023
+20191e33b3be-b2ab-46e9-96e8-d4eb4bad6e44,1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44,2019 Annual Meeting of the Association for Computational Linguistics,2019
+2020288db662-2e0c-4ca3-be5f-097ebab812d5,288db662-2e0c-4ca3-be5f-097ebab812d5,2020 International Conference on Computer-Human Interaction Research and Applications,2020
+2020a4f30d5d-eda9-47ef-adc5-accd6c401486,a4f30d5d-eda9-47ef-adc5-accd6c401486,"2020 International Conference Electronic Systems, Signal Processing and Computing Technologies [ICESC-]",2020
+20203e98d46b-64ac-4093-8f47-44da65ebf02a,3e98d46b-64ac-4093-8f47-44da65ebf02a,2020 Workshop on Mobile Computing Systems and Applications,2020
+20195dfdcc5e-f28b-42bd-9832-bf3894169b1c,5dfdcc5e-f28b-42bd-9832-bf3894169b1c,2019 International Conference on Information Control Systems & Technologies,2019
+2019647e2b25-1bff-4e4f-b507-e21dcb081788,647e2b25-1bff-4e4f-b507-e21dcb081788,2019 IEEE International Requirements Engineering Conference,2019
+2019de7cb6d2-863c-4bab-b617-c4831742cc24,de7cb6d2-863c-4bab-b617-c4831742cc24,2019 International Conference on Computer Aided Verification,2019
+2019ffae0102-5d0b-4e54-a232-60ae137b5d5f,ffae0102-5d0b-4e54-a232-60ae137b5d5f,2019 Conducting Empirical Studies in Industry,2019
+2019b55b50b1-aae7-47a7-b042-8aecc930073d,b55b50b1-aae7-47a7-b042-8aecc930073d,2019 International Conference on Human Factors in Computing Systems,2019
+20184076610c-1337-43ac-8695-42d7e74ee8f0,4076610c-1337-43ac-8695-42d7e74ee8f0,2018 IEEE International Symposium on Robot and Human Interactive Communication,2018
+20091da7d7d7-0481-489f-b27d-98cce1ebdf43,1da7d7d7-0481-489f-b27d-98cce1ebdf43,2009 ACM/IEEE Joint Conference on Digital Libraries,2009
+2008a7d0ba42-6530-488b-a183-f613227705e8,a7d0ba42-6530-488b-a183-f613227705e8,2008 International Conference on Asian Digital Libraries,2008
+2008ec487118-ac6b-4216-b5d1-b083b3be3e85,ec487118-ac6b-4216-b5d1-b083b3be3e85,2008 International Conference on Digital Preservation,2008
+2021c9f78378-6c9a-48d1-9114-fe10411ab4ab,c9f78378-6c9a-48d1-9114-fe10411ab4ab,2021 Symposium on VLSI Circuits,2021
+2021914d4734-285a-4cd8-bba1-eec0db26a512,914d4734-285a-4cd8-bba1-eec0db26a512,2021 International Conference on Supercomputing,2021
+2020021b37d3-cef1-4c12-a442-257f7900c23d,021b37d3-cef1-4c12-a442-257f7900c23d,2020 Design Automation Conference,2020
+200947e4f61e-9b0e-431f-bd17-e534b53c655b,47e4f61e-9b0e-431f-bd17-e534b53c655b,2009 International Conference on Intelligent Computing,2009
+20071dd57490-36c0-4706-a939-6ba41a501209,1dd57490-36c0-4706-a939-6ba41a501209,2007 International Conference on Fuzzy Systems and Knowledge Discovery,2007
+20201e33b3be-b2ab-46e9-96e8-d4eb4bad6e44,1e33b3be-b2ab-46e9-96e8-d4eb4bad6e44,2020 Annual Meeting of the Association for Computational Linguistics,2020
+202070713d09-6e4b-4554-9d3f-94d08aba320c,70713d09-6e4b-4554-9d3f-94d08aba320c,2020 International Workshop on Semantic Evaluation,2020
+202041bf9ed3-85b3-4c90-b015-150e31690253,41bf9ed3-85b3-4c90-b015-150e31690253,2020 Conference on Empirical Methods in Natural Language Processing,2020
+2019c56116d3-225c-47c9-a4d9-f935e32f846c,c56116d3-225c-47c9-a4d9-f935e32f846c,2019 IEEE Vehicular Technology Conference,2019
+2019b189dec0-41d0-4cea-a906-7c5186895904,b189dec0-41d0-4cea-a906-7c5186895904,2019 Global Communications Conference,2019
+2012167fa0ca-e88a-4ef7-a16f-bc66c457c806,167fa0ca-e88a-4ef7-a16f-bc66c457c806,2012 European Conference on Computer Vision,2012
+20114144b5fb-0a80-4663-8ebf-80ca0c47231a,4144b5fb-0a80-4663-8ebf-80ca0c47231a,2011 Vision,2011
+2011768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2011 Computer Vision and Pattern Recognition,2011
+20236afe5f5f-0d54-4e3a-aa07-ed4778cf1405,6afe5f5f-0d54-4e3a-aa07-ed4778cf1405,2023 International Conference on Communication Systems and Networks,2023
+2014c56116d3-225c-47c9-a4d9-f935e32f846c,c56116d3-225c-47c9-a4d9-f935e32f846c,2014 IEEE Vehicular Technology Conference,2014
+2020d4610af5-85e0-480b-8773-5c71d92a7b99,d4610af5-85e0-480b-8773-5c71d92a7b99,2020 International Conference on Architectural Support for Programming Languages and Operating Systems,2020
+20207f03ba38-4bb4-41a3-a6d7-914c28f84272,7f03ba38-4bb4-41a3-a6d7-914c28f84272,2020 Dependable Systems and Networks,2020
+202029b9c461-963e-4d11-b2ab-92c182243942,29b9c461-963e-4d11-b2ab-92c182243942,2020 IEEE Symposium on Security and Privacy,2020
+2019c1421733-50b9-425e-8cdb-e0d8de50327a,c1421733-50b9-425e-8cdb-e0d8de50327a,2019 IEEE Region International Conference on Computational Technologies in Electrical and Electronics Engineering,2019
+20207431ff67-91dc-41fa-b322-1b1ca657025f,7431ff67-91dc-41fa-b322-1b1ca657025f,2020 International Conference on Information and Knowledge Management,2020
+2016768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2016 Computer Vision and Pattern Recognition,2016
+201678a7fbcc-41c5-4258-b633-04b8637d4a9f,78a7fbcc-41c5-4258-b633-04b8637d4a9f,2016 British Machine Vision Conference,2016
+2019e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,e84bb5a1-8f79-42cc-8eb1-3a52f7c73d63,"2019 IEEE International Conference on Systems, Man and Cybernetics",2019
+20173413b6f7-e718-4940-a26a-e208f732ada0,3413b6f7-e718-4940-a26a-e208f732ada0,2017 Recent Advances in Natural Language Processing,2017
+201552710436-e773-4491-a123-a5e57510a07c,52710436-e773-4491-a123-a5e57510a07c,2015 International Conference of the Pacific Association for Computaitonal Linguistics,2015
+202012dd8878-3a5a-42d9-8f75-917f55f70b7f,12dd8878-3a5a-42d9-8f75-917f55f70b7f,2020 International Symposium on Computational Intelligence and Design,2020
+20208c36c300-10f5-4008-ae53-6371fcc3030d,8c36c300-10f5-4008-ae53-6371fcc3030d,2020 International Conferences on Information Science and System,2020
+2023764e3630-ddac-4c21-af4b-9d32ffef082e,764e3630-ddac-4c21-af4b-9d32ffef082e,2023 IEEE International Conference on Data Engineering,2023
+20205daf2ed1-4d60-4098-865d-528545a79597,5daf2ed1-4d60-4098-865d-528545a79597,"2020 International Conference on Electronics, Control, Optimization and Computer Science",2020
+202066c268f7-ba60-443f-919d-e2c297910401,66c268f7-ba60-443f-919d-e2c297910401,2020 International Conference on Computational Collective Intelligence,2020
+2019a0edb93b-1e95-4128-a295-6b1659149cef,a0edb93b-1e95-4128-a295-6b1659149cef,2019 Knowledge Discovery and Data Mining,2019
+1999f9a81beb-9bcb-43bc-96a7-67cf23dba2d6,f9a81beb-9bcb-43bc-96a7-67cf23dba2d6,1999 European Conference on Machine Learning,1999
+20200ea23534-5909-4f37-823b-46a4fc6fda54,0ea23534-5909-4f37-823b-46a4fc6fda54,2020 International Conference on Advances in Information Technology,2020
+201947e4f61e-9b0e-431f-bd17-e534b53c655b,47e4f61e-9b0e-431f-bd17-e534b53c655b,2019 International Conference on Intelligent Computing,2019
+2018d2d8fd42-8bb9-4296-9f84-48bccb501cca,d2d8fd42-8bb9-4296-9f84-48bccb501cca,2018 International Conference on Technologies and Applications of Artificial Intelligence,2018
+20148113a511-e0d9-4231-a1bc-0bf5d0212a4e,8113a511-e0d9-4231-a1bc-0bf5d0212a4e,2014 Symposium on the Theory of Computing,2014
+20133c2dd17d-6c11-4bb6-9d01-1fc2064cb8df,3c2dd17d-6c11-4bb6-9d01-1fc2064cb8df,2013 ACM Conference on Economics and Computation,2013
+201368cf0e99-5164-4480-8ed4-8b8416a091df,68cf0e99-5164-4480-8ed4-8b8416a091df,2013 IEEE Annual Symposium on Foundations of Computer Science,2013
+201374e6c5a5-321b-4cb0-b592-5ec327daa5ab,74e6c5a5-321b-4cb0-b592-5ec327daa5ab,2013 SeCO Workshops,2013
+20208854982c-a445-46c7-82ec-c4d7aac5c5e3,8854982c-a445-46c7-82ec-c4d7aac5c5e3,2020 International Conference on Distributed Computing in Sensor Systems,2020
+20182b672dfa-333b-4231-b056-bb6ec13c2173,2b672dfa-333b-4231-b056-bb6ec13c2173,2018 Ubiquitous Computing,2018
+2017ab453bce-d4ec-48ec-ad78-ef19dc9333ab,ab453bce-d4ec-48ec-ad78-ef19dc9333ab,2017 Conference and Labs of the Evaluation Forum,2017
+20168c56af24-beb5-4199-9502-b9e939db354f,8c56af24-beb5-4199-9502-b9e939db354f,2016 International Conference on Computational Intelligence and Computing Research,2016
+2019a9b1f5c4-f65f-4a81-8786-1abe18171707,a9b1f5c4-f65f-4a81-8786-1abe18171707,2019 International Symposium ELMAR,2019
+2018f6752838-f268-4a1b-87e7-c5f30a36713c,f6752838-f268-4a1b-87e7-c5f30a36713c,2018 International Conference on Machine Learning and Applications,2018
+20216097e4b5-f3a8-4021-991b-031490b89f6f,6097e4b5-f3a8-4021-991b-031490b89f6f,"2021 ACM International Conference on Bioinformatics, Computational Biology and Biomedicine",2021
+2020a631cd93-9863-44c8-8dff-9eb3fbf4f83e,a631cd93-9863-44c8-8dff-9eb3fbf4f83e,2020 Clinical Natural Language Processing Workshop,2020
+2015706555ea-04da-44b6-9485-9f9651fde003,706555ea-04da-44b6-9485-9f9651fde003,2015 International Conference on Knowledge-Based Intelligent Information & Engineering Systems,2015
+20218bc59e8b-e251-4201-839a-ec83ae78859d,8bc59e8b-e251-4201-839a-ec83ae78859d,2021 Complex,2021
+20221da542e6-88ec-4883-88c2-06fc23989ef2,1da542e6-88ec-4883-88c2-06fc23989ef2,2022 Nuclear Science Symposium and Medical Imaging Conference,2022
+201461a709e3-2060-423c-8de5-ffd3885aa31c,61a709e3-2060-423c-8de5-ffd3885aa31c,2014 International Conference on Medical Image Computing and Computer-Assisted Intervention,2014
+201660c9a57f-2d17-4c7c-a0de-8e673a1a109a,60c9a57f-2d17-4c7c-a0de-8e673a1a109a,2016 International Workshop on Signal Processing Advances in Wireless Communications,2016
+2021265922c3-a861-444a-90b0-6190d69a59cf,265922c3-a861-444a-90b0-6190d69a59cf,"2021 International Conference on Electronics, Information and Communications",2021
+2020661b06fd-3998-4d10-bd46-544fc270111f,661b06fd-3998-4d10-bd46-544fc270111f,"2020 International Conference on Cybernetics, Robotics and Control",2020
+20204802a885-b293-4af7-b45f-fabb2d74652a,4802a885-b293-4af7-b45f-fabb2d74652a,2020 International Conference on Information Management and Technology,2020
+2019af806702-8820-45ae-9a4e-2073e928bdef,af806702-8820-45ae-9a4e-2073e928bdef,2019 Annual Conference on Information Sciences and Systems,2019
+2018d8fc597b-0223-49d7-9415-3327f07e2bcb,d8fc597b-0223-49d7-9415-3327f07e2bcb,2018 WorldCIST,2018
+20183ff60429-00e0-4968-8e38-f0f1584f5c83,3ff60429-00e0-4968-8e38-f0f1584f5c83,2018 International Symposium on Digital Forensics and Security,2018
+20239417e814-a62b-4ee6-9fe5-a517cc4106a5,9417e814-a62b-4ee6-9fe5-a517cc4106a5,2023 Sensors Applications Symposium,2023
+2023d7d7587f-a1e9-46a4-9db5-54c95787c6f1,d7d7587f-a1e9-46a4-9db5-54c95787c6f1,2023 Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2023
+2018167fa0ca-e88a-4ef7-a16f-bc66c457c806,167fa0ca-e88a-4ef7-a16f-bc66c457c806,2018 European Conference on Computer Vision,2018
+2015768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2015 Computer Vision and Pattern Recognition,2015
+2014768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2014 Computer Vision and Pattern Recognition,2014
+201962d378e9-dcaf-4ce7-9eeb-31175bbe3071,62d378e9-dcaf-4ce7-9eeb-31175bbe3071,2019 International Conference on the Theory and Application of Cryptology and Information Security,2019
+2018726075c1-d5b0-494f-9ef1-f9ef659d14f3,726075c1-d5b0-494f-9ef1-f9ef659d14f3,2018 International Conference on Cryptology in India,2018
+201887fc9c3c-cc7f-42aa-ba71-2700729a6788,87fc9c3c-cc7f-42aa-ba71-2700729a6788,2018 ACM Asia Conference on Computer and Communications Security,2018
+20170bddd5d7-2897-495a-a961-465abe6e04de,0bddd5d7-2897-495a-a961-465abe6e04de,2017 European Symposium on Research in Computer Security,2017
+2021db9c9754-4cc1-44db-a601-25d0e1d01879,db9c9754-4cc1-44db-a601-25d0e1d01879,2021 International Conference on Knowledge and Smart Technology,2021
+20206a7544ec-28bf-4f81-92a4-f33b3562f11f,6a7544ec-28bf-4f81-92a4-f33b3562f11f,2020 IEEE India Conference,2020
+2020d6dd0471-263c-45b1-8c75-ca4c683398e2,d6dd0471-263c-45b1-8c75-ca4c683398e2,2020 International Conference on Information and Software Technologies,2020
+19929870ecbf-4ccb-4444-b6d2-518744221ef1,9870ecbf-4ccb-4444-b6d2-518744221ef1,1992 ML Workshop,1992
+2017577b3488-db7d-40c4-9e43-0602d3f3e426,577b3488-db7d-40c4-9e43-0602d3f3e426,2017 Military Communications and Information Systems Conference,2017
+2017967a097f-6016-4604-8972-cb46ee0f021e,967a097f-6016-4604-8972-cb46ee0f021e,2017 International Conference on Compute and Data Analysis,2017
+2012c22cbb06-d23e-491c-886e-7f7d402229ea,c22cbb06-d23e-491c-886e-7f7d402229ea,2012 IAPR International Conference on Machine Learning and Data Mining in Pattern Recognition,2012
+201974f72915-6d78-48b3-85dc-5f79881ab60b,74f72915-6d78-48b3-85dc-5f79881ab60b,2019 International Conference on Data Science in Cyberspace,2019
+20188a31511d-7523-41b6-8d81-565373827b19,8a31511d-7523-41b6-8d81-565373827b19,2018 International Conference on Systems and Informatics,2018
+20175bc61c59-1b2b-4335-a22e-fdfe00f75583,5bc61c59-1b2b-4335-a22e-fdfe00f75583,2017 International Conference on Big Data Computing and Communications,2017
+202094aaac44-b542-482e-98fb-56e2bb60e164,94aaac44-b542-482e-98fb-56e2bb60e164,2020 IEEE Workshop on Signal Processing Systems,2020
+20243dbf084c-ef47-4b74-9919-047b40704538,3dbf084c-ef47-4b74-9919-047b40704538,2024 Italian National Conference on Sensors,2024
+2022a36dc29e-4ea1-4567-b0fe-1c06daf8bee8,a36dc29e-4ea1-4567-b0fe-1c06daf8bee8,2022 International Conference on Software Engineering,2022
+2021a36dc29e-4ea1-4567-b0fe-1c06daf8bee8,a36dc29e-4ea1-4567-b0fe-1c06daf8bee8,2021 International Conference on Software Engineering,2021
+2021289bfdda-eab3-4c9a-97be-ef1e0f9ddfc0,289bfdda-eab3-4c9a-97be-ef1e0f9ddfc0,2021 International Symposium on Software Testing and Analysis,2021
+2020a36dc29e-4ea1-4567-b0fe-1c06daf8bee8,a36dc29e-4ea1-4567-b0fe-1c06daf8bee8,2020 International Conference on Software Engineering,2020
+2022768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2022 Computer Vision and Pattern Recognition,2022
+202137275deb-3fcf-4d16-ae77-95db9899b1f3,37275deb-3fcf-4d16-ae77-95db9899b1f3,2021 IEEE/RJS International Conference on Intelligent RObots and Systems,2021
+2017bdc1e449-645b-4e9a-a531-6c02de3188a6,bdc1e449-645b-4e9a-a531-6c02de3188a6,2017 International Conference on Computer Science and Network Technology,2017
+20196097e4b5-f3a8-4021-991b-031490b89f6f,6097e4b5-f3a8-4021-991b-031490b89f6f,"2019 ACM International Conference on Bioinformatics, Computational Biology and Biomedicine",2019
+2019e795213e-9a07-4d48-a477-6c05448b9a72,e795213e-9a07-4d48-a477-6c05448b9a72,2019 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology,2019
+201965898267-1da6-4ec8-9b38-b63b1080c23f,65898267-1da6-4ec8-9b38-b63b1080c23f,2019 International Conference on Rebooting Computing,2019
+20174a0a181c-3807-4883-8ac2-b0ddf5f46497,4a0a181c-3807-4883-8ac2-b0ddf5f46497,2017 International Conference on Communication and Electronics Systems,2017
+2017edbf100f-0a8b-4e06-b100-e077ac2c913e,edbf100f-0a8b-4e06-b100-e077ac2c913e,2017 International Conference on eDemocracy & eGovernment,2017
+2016389baf23-24d6-4f4c-9bcf-dd4978cd3300,389baf23-24d6-4f4c-9bcf-dd4978cd3300,2016 International Conference on Next Generation Computing Technologies,2016
+2022e37581a5-dfe0-4f8f-8068-b423503fce67,e37581a5-dfe0-4f8f-8068-b423503fce67,2022 International Conference on Smart Computing,2022
+202155899451-b8ad-4bdb-9db0-eba418d791f7,55899451-b8ad-4bdb-9db0-eba418d791f7,2021 International Conference on Computer Communications and Networks,2021
+201848782cc2-a3b4-44f3-95a4-2c4cb0f7245b,48782cc2-a3b4-44f3-95a4-2c4cb0f7245b,2018 International Conference on Pattern Recognition,2018
+2022939c6e1d-0d17-4d6e-8a82-66d960df0e40,939c6e1d-0d17-4d6e-8a82-66d960df0e40,2022 International Conference on Learning Representations,2022
+202267f7f831-711a-43c8-8785-1e09005359b5,67f7f831-711a-43c8-8785-1e09005359b5,2022 International Joint Conference on Artificial Intelligence,2022
+2021fc0a208c-acb7-47dc-a0d4-af8190e21d29,fc0a208c-acb7-47dc-a0d4-af8190e21d29,2021 International Conference on Machine Learning,2021
+2008e4e125f2-da7f-4cdb-8e8a-83c870f73435,e4e125f2-da7f-4cdb-8e8a-83c870f73435,"2008 International Symposium on Power Electronics, Electrical Drives, Automation and Motion",2008
+201460c45ccc-5528-42eb-85a9-7606a3d9b220,60c45ccc-5528-42eb-85a9-7606a3d9b220,2014 International Conference on Interaction Sciences,2014
+2005d43f0f26-43c9-4009-a1ed-63624522c166,d43f0f26-43c9-4009-a1ed-63624522c166,2005 International Conference on Intelligent User Interfaces,2005
+2016b8e3fb18-a48d-49f0-96bd-38cca7124b0d,b8e3fb18-a48d-49f0-96bd-38cca7124b0d,2016 International Conference on Cloud Computing and Intelligence Systems,2016
+2015cde3b97f-f8e7-488d-a365-d1a21be93a7a,cde3b97f-f8e7-488d-a365-d1a21be93a7a,2015 International Conference on Intelligent Engineering Systems,2015
+20129f805ea5-b89f-4a8d-9a6b-ab3f419fe5c6,9f805ea5-b89f-4a8d-9a6b-ab3f419fe5c6,2012 Pacific Rim Conference on Multimedia,2012
+20117fc59923-fa38-4cd7-9b1a-72dda5829d33,7fc59923-fa38-4cd7-9b1a-72dda5829d33,2011 Learning and Intelligent Optimization,2011
+20182d136b11-c2b5-484b-b008-7f4a852fd61e,2d136b11-c2b5-484b-b008-7f4a852fd61e,2018 International Conference on Artificial Intelligence and Statistics,2018
+2015bbdd88c4-fb38-40a7-9a05-df99e3d1eee2,bbdd88c4-fb38-40a7-9a05-df99e3d1eee2,"2015 International Conference on Information, Intelligence, Systems and Applications",2015
+2015f3e38fed-90fb-47cc-b88a-cf7696814eb0,f3e38fed-90fb-47cc-b88a-cf7696814eb0,2015 International Conference on Advances in Computer Engineering and Applications,2015
+2012b8d8437f-4a22-4452-9d2c-60d7d9d14eac,b8d8437f-4a22-4452-9d2c-60d7d9d14eac,2012 International Conference on Intelligent Systems Design and Applications,2012
+2012e1a0f1be-f047-4f67-85a9-eaaecf83618a,e1a0f1be-f047-4f67-85a9-eaaecf83618a,2012 National Radio Science Conference,2012
+202167f7f831-711a-43c8-8785-1e09005359b5,67f7f831-711a-43c8-8785-1e09005359b5,2021 International Joint Conference on Artificial Intelligence,2021
+2021ffe5bb5c-04ed-488e-985d-d3a7b39542cf,ffe5bb5c-04ed-488e-985d-d3a7b39542cf,2021 IEEE International Conference on Distributed Computing Systems,2021
+2020911e7332-8ea8-4e9d-bc20-5572a2523f92,911e7332-8ea8-4e9d-bc20-5572a2523f92,2020 International Middleware Conference,2020
+201628743d0f-a1f0-4559-b23f-20ac351f17df,28743d0f-a1f0-4559-b23f-20ac351f17df,2016 IEEE International Symposium on Medical Measurements and Applications,2016
+20145353d583-6f50-4967-ab34-74338b908b90,5353d583-6f50-4967-ab34-74338b908b90,2014 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2014
+201870db1495-6b74-4d35-b670-ae1eacf44acb,70db1495-6b74-4d35-b670-ae1eacf44acb,2018 Seminar/Workshop on Direct and Inverse Problems of Electromagnetic and Acoustic Wave Theory,2018
+20223a7352c9-9494-49e2-8b4a-ba997954a26f,3a7352c9-9494-49e2-8b4a-ba997954a26f,2022 Hellenic Conference on Artificial Intelligence,2022
+2019be5cc8fb-1b0b-40de-9597-c6dd055201e7,be5cc8fb-1b0b-40de-9597-c6dd055201e7,"2019 International Conference on Informatics, IoT, and Enabling Technologies",2019
+2023540f1ce2-26a1-4402-95c5-f25226e5dc8c,540f1ce2-26a1-4402-95c5-f25226e5dc8c,2023 IEEE International Conference on Signal and Image Processing,2023
+2022d5690a5b-391c-4cc6-a335-05c7994cd3ac,d5690a5b-391c-4cc6-a335-05c7994cd3ac,"2022 International Conference on Modern Problems of Radio Engineering, Telecommunications and Computer Science",2022
+2022804fd380-52e4-4dad-9650-b3106b8ed31b,804fd380-52e4-4dad-9650-b3106b8ed31b,2022 International Conference on Electrical Engineering and Information Communication Technology,2022
+20209aa57e01-2dc2-4422-93b7-2b628326f78c,9aa57e01-2dc2-4422-93b7-2b628326f78c,2020 Information and Communication Technology Convergence,2020
+2022167fa0ca-e88a-4ef7-a16f-bc66c457c806,167fa0ca-e88a-4ef7-a16f-bc66c457c806,2022 European Conference on Computer Vision,2022
+2022764e3630-ddac-4c21-af4b-9d32ffef082e,764e3630-ddac-4c21-af4b-9d32ffef082e,2022 IEEE International Conference on Data Engineering,2022
+201846990654-eb6c-4674-96bc-ba905dab2a86,46990654-eb6c-4674-96bc-ba905dab2a86,2018 International Conference on Conceptual Structures,2018
+20033e64b1c1-745f-4edf-bd92-b8ef122bb49c,3e64b1c1-745f-4edf-bd92-b8ef122bb49c,2003 International Conference on Artificial Neural Networks,2003
+2018e251322f-1b8a-43c4-ae82-44aaa356cd4f,e251322f-1b8a-43c4-ae82-44aaa356cd4f,"2018 International Conference on Cryptography, Security and Privacy",2018
+2023b251b5b7-ceed-428c-9e33-d1b41d4d1cb6,b251b5b7-ceed-428c-9e33-d1b41d4d1cb6,2023 International Workshop on Mobility in the Evolving Internet Architecture,2023
+2023b4b9c2ab-3b92-4da7-a4ae-26c8247300d0,b4b9c2ab-3b92-4da7-a4ae-26c8247300d0,2023 International Conference on Wireless Communications and Mobile Computing,2023
+2022255a371e-2a0c-42d1-b4e7-c3cf3e21c89a,255a371e-2a0c-42d1-b4e7-c3cf3e21c89a,2022 International Conference on Advances in Social Networks Analysis and Mining,2022
+2023e574da12-4e4c-4b78-a203-ae3719c0c4f7,e574da12-4e4c-4b78-a203-ae3719c0c4f7,2023 Annual International Computer Software and Applications Conference,2023
+2017af90489e-312f-4514-bea2-bcb399cb8ece,af90489e-312f-4514-bea2-bcb399cb8ece,2017 Interspeech,2017
+2018af9cc598-0e30-4b73-9b91-9d046f9445b1,af9cc598-0e30-4b73-9b91-9d046f9445b1,2018 International Conference on Software Engineering for Defence Applications,2018
+2016c0611651-146e-4f85-bd9d-00cbdd672901,c0611651-146e-4f85-bd9d-00cbdd672901,2016 International Forum on Research and Technologies for Society and Industry Leveraging a better tomorrow,2016
+20209c119da6-ab17-4403-854e-786882dbf352,9c119da6-ab17-4403-854e-786882dbf352,2020 Decision Support Systems,2020
+2018ffa223d8-026b-4e03-9fa4-eece826c31ae,ffa223d8-026b-4e03-9fa4-eece826c31ae,2018 International Conference on Innovations in Information Technology,2018
+201905878603-c240-4a32-b893-eda8d45febb4,05878603-c240-4a32-b893-eda8d45febb4,2019 International Conference on Ubiquitous Computing and Ambient Intelligence,2019
+20188dce23a9-44e0-4381-a39e-2acc1edff700,8dce23a9-44e0-4381-a39e-2acc1edff700,2018 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,2018
+2015991e8cbf-4a4a-4ac4-a273-63dd7a35c364,991e8cbf-4a4a-4ac4-a273-63dd7a35c364,2015 IEEE International Conference on Document Analysis and Recognition,2015
+20148f125553-3fd5-4370-a175-f7179db29048,8f125553-3fd5-4370-a175-f7179db29048,"2014 IEEE International Performance, Computing, and Communications Conference",2014
+2014a2f3e710-3f36-46fc-bf88-c40f1356cd43,a2f3e710-3f36-46fc-bf88-c40f1356cd43,2014 Canadian Conference on Electrical and Computer Engineering,2014
+20005440268e-4691-4fc0-8d0e-dcd6df18e77f,5440268e-4691-4fc0-8d0e-dcd6df18e77f,2000 ACM/IEEE International Conference on Mobile Computing and Networking,2000
+20216be078fe-e448-4123-8096-25493e7a2502,6be078fe-e448-4123-8096-25493e7a2502,2021 ARES,2021
+20169cb29d4c-aff5-4a8d-8ae4-6a2cd440519d,9cb29d4c-aff5-4a8d-8ae4-6a2cd440519d,2016 International Conference on Advanced Communication Technology,2016
+20117431ff67-91dc-41fa-b322-1b1ca657025f,7431ff67-91dc-41fa-b322-1b1ca657025f,2011 International Conference on Information and Knowledge Management,2011
+2011ea38228f-6ed3-4222-a3ce-d963d8cc9516,ea38228f-6ed3-4222-a3ce-d963d8cc9516,2011 Web Search and Data Mining,2011
+20108dce23a9-44e0-4381-a39e-2acc1edff700,8dce23a9-44e0-4381-a39e-2acc1edff700,2010 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,2010
+2010ea38228f-6ed3-4222-a3ce-d963d8cc9516,ea38228f-6ed3-4222-a3ce-d963d8cc9516,2010 Web Search and Data Mining,2010
+20098dce23a9-44e0-4381-a39e-2acc1edff700,8dce23a9-44e0-4381-a39e-2acc1edff700,2009 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,2009
+20087431ff67-91dc-41fa-b322-1b1ca657025f,7431ff67-91dc-41fa-b322-1b1ca657025f,2008 International Conference on Information and Knowledge Management,2008
+2008a0edb93b-1e95-4128-a295-6b1659149cef,a0edb93b-1e95-4128-a295-6b1659149cef,2008 Knowledge Discovery and Data Mining,2008
+20088dce23a9-44e0-4381-a39e-2acc1edff700,8dce23a9-44e0-4381-a39e-2acc1edff700,2008 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,2008
+2007f3bfa077-18b6-4ca9-a559-a809b86a837f,f3bfa077-18b6-4ca9-a559-a809b86a837f,2007 SGAI Conferences,2007
+20060c7ffaf9-74fc-4c66-a398-d5f8bff2d79d,0c7ffaf9-74fc-4c66-a398-d5f8bff2d79d,2006 IEEE International Conference on Granular Computing,2006
+2023730e1936-0c14-4ca4-ab8c-edc0c6b0b4b2,730e1936-0c14-4ca4-ab8c-edc0c6b0b4b2,2023 International Conference on Computer and Knowledge Engineering,2023
+2022a33b4339-8ebd-427d-8a4a-2496fca85732,a33b4339-8ebd-427d-8a4a-2496fca85732,2022 Fire,2022
+2016764e3630-ddac-4c21-af4b-9d32ffef082e,764e3630-ddac-4c21-af4b-9d32ffef082e,2016 IEEE International Conference on Data Engineering,2016
+20183b3de2d6-b889-4a6a-a93a-df4147cbcb4b,3b3de2d6-b889-4a6a-a93a-df4147cbcb4b,2018 Student Conference on Research and Development,2018
+2018b2ea28aa-a290-42e0-b917-cb21ab5ebca6,b2ea28aa-a290-42e0-b917-cb21ab5ebca6,2018 International Symposium on Electronics and Telecommunications,2018
+2018e1623161-079f-4133-ae30-fcff56ce92cf,e1623161-079f-4133-ae30-fcff56ce92cf,2018 International Conference on Computing: Theory and Applications,2018
+201979c77f49-24e0-4b61-a1a0-a8ba8f64be00,79c77f49-24e0-4b61-a1a0-a8ba8f64be00,2019 International Conference on Artificial Intelligence in Education,2019
+201571826259-dbc2-44dc-9ffa-abf8abd1514e,71826259-dbc2-44dc-9ffa-abf8abd1514e,2015 International Conference on Network and System Security,2015
+201487fc9c3c-cc7f-42aa-ba71-2700729a6788,87fc9c3c-cc7f-42aa-ba71-2700729a6788,2014 ACM Asia Conference on Computer and Communications Security,2014
+201191d4ecad-d022-4953-901e-c5c57c614f72,91d4ecad-d022-4953-901e-c5c57c614f72,2011 Asia-Pacific Computer Systems Architecture Conference,2011
+201129deb9df-6626-419d-9aaf-1d46440013e1,29deb9df-6626-419d-9aaf-1d46440013e1,2011 International Conference on Database and Expert Systems Applications,2011
+20236864fc0f-dd47-4798-a829-ac53dd78862f,6864fc0f-dd47-4798-a829-ac53dd78862f,2023 International ACM SIGACCESS Conference on Computers and Accessibility,2023
+201441929b26-d887-42cf-97f1-1217a0a9e315,41929b26-d887-42cf-97f1-1217a0a9e315,"2014 ACM SIGMOBILE International Conference on Mobile Systems, Applications, and Services",2014
+201141929b26-d887-42cf-97f1-1217a0a9e315,41929b26-d887-42cf-97f1-1217a0a9e315,"2011 ACM SIGMOBILE International Conference on Mobile Systems, Applications, and Services",2011
+2015231d2432-8f0e-4232-8b06-3a8c52d34fb1,231d2432-8f0e-4232-8b06-3a8c52d34fb1,"2015 International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management",2015
+2019ec8e48eb-4bfb-42c8-b0b0-a8b72f474541,ec8e48eb-4bfb-42c8-b0b0-a8b72f474541,2019 Intellectual Systems of Decision Making and Problems of Computational Intelligence,2019
+20181268cf6f-971e-46d2-aaef-1621574eacf6,1268cf6f-971e-46d2-aaef-1621574eacf6,2018 International Conference on Computer Science and Information Technologies,2018
+2023b7aa40ac-729b-49d6-9064-4d1a9480e9a9,b7aa40ac-729b-49d6-9064-4d1a9480e9a9,2023 International Symposium on High-Performance Computer Architecture,2023
+2023deedf64a-dd5c-4b33-b345-ff83bfb93d71,deedf64a-dd5c-4b33-b345-ff83bfb93d71,2023 International Symposium on Computer Architecture,2023
+20224299b928-18a2-403a-adf4-b15510e38aed,4299b928-18a2-403a-adf4-b15510e38aed,2022 IEEE Computer Society Annual Symposium on VLSI,2022
+201963c420a6-4772-4d27-bb54-2b7f2e6635a6,63c420a6-4772-4d27-bb54-2b7f2e6635a6,2019 Security and Artificial Intelligence,2019
+201746990654-eb6c-4674-96bc-ba905dab2a86,46990654-eb6c-4674-96bc-ba905dab2a86,2017 International Conference on Conceptual Structures,2017
+200648782cc2-a3b4-44f3-95a4-2c4cb0f7245b,48782cc2-a3b4-44f3-95a4-2c4cb0f7245b,2006 International Conference on Pattern Recognition,2006
+2006a9eebc67-0871-45df-aaa7-6cc913ffbd66,a9eebc67-0871-45df-aaa7-6cc913ffbd66,2006 ACM International Conference on Image and Video Retrieval,2006
+2006768b87bb-8a18-4d9c-a161-4d483c776bcf,768b87bb-8a18-4d9c-a161-4d483c776bcf,2006 Computer Vision and Pattern Recognition,2006
+2006167fa0ca-e88a-4ef7-a16f-bc66c457c806,167fa0ca-e88a-4ef7-a16f-bc66c457c806,2006 European Conference on Computer Vision,2006
+202282901c74-dc2e-4d08-b633-637c7e209284,82901c74-dc2e-4d08-b633-637c7e209284,"2022 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",2022
+2021251bb249-7a60-480f-beba-598ca8b11fad,251bb249-7a60-480f-beba-598ca8b11fad,2021 Passive and Active Network Measurement Conference,2021
+2011660fae11-5025-4d24-a074-9abddd1549b5,660fae11-5025-4d24-a074-9abddd1549b5,2011 Workshop on Algorithm Engineering and Experimentation,2011
+20105552b3d9-73b0-435f-8515-a135f23fcbba,5552b3d9-73b0-435f-8515-a135f23fcbba,2010 Conference on Emerging Network Experiment and Technology,2010
+2016c5f8f5c8-58d0-46aa-bbb5-44ce60315635,c5f8f5c8-58d0-46aa-bbb5-44ce60315635,2016 Signal Processing and Communications Applications Conference,2016
+2005fc0a208c-acb7-47dc-a0d4-af8190e21d29,fc0a208c-acb7-47dc-a0d4-af8190e21d29,2005 International Conference on Machine Learning,2005
