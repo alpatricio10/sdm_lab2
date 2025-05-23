@@ -11,11 +11,9 @@ g.bind("xsd", XSD)
 
 
 # --- CLASSES --- #
-# Here for completeness, but commented out since this should be inferred in GraphDB (I think)
 classes = [
     "person","author", "reviewer", "journal_editor", "conference_chair", "paper", "keyword",
-    "volume", "journal", "edition", "proceeding", "event", "workshop"
-    "conference", "city", "reviews"
+    "volume", "journal", "edition", "proceeding", "event", "workshop", "conference", "city"
 ]
 for c in classes:
     g.add((RES[c], RDF.type, RDFS.Class))
@@ -29,7 +27,6 @@ g.add((RES["conference_chair"], RDFS.subClassOf, RES["person"]))
 g.add((RES["workshop"], RDFS.subClassOf, RES["event"]))
 g.add((RES["conference"], RDFS.subClassOf, RES["event"]))
 
-
 # --- PROPERTIES --- #
 # Defines the domain and the range
 properties = [
@@ -38,12 +35,11 @@ properties = [
     ("email", "person", XSD.string),
     # add more attributes
 
-
     # Editor
     ("headsJournal", "journal_editor", "journal"),
 
     # conference_chair
-    ("headsConference", "conference_chair", "conference"),
+    ("headsEvent", "conference_chair", "event"),
 
     # Author
     ("writes", "author", "paper"),
@@ -54,7 +50,6 @@ properties = [
     ("abstract", "paper", XSD.string),
     ("doi", "paper", XSD.string),
     ("url", "paper", XSD.string),
-    ("pages", "paper", XSD.int),
     ("citation_count", "paper", XSD.int),
     ("cites", "paper", "paper"),
     ("has_corresponding_author", "paper", "author"),
@@ -70,10 +65,10 @@ properties = [
     ("has_volume", "journal", "volume"),
     ("journal_name", "journal", XSD.string),
 
-    # Paper / Conference
+    # Paper / Event
     ("presented_in_edition", "paper", "edition"),
-    ("has_edition", "conference", "edition"),
-    ("conference_name", "conference", XSD.string),
+    ("has_edition", "event", "edition"),
+    ("event_name", "event", XSD.string),
     ("has_proceeding", "edition", "proceeding"),
     ("proceeding_name", "proceeding", XSD.string),
     ("heldInCity", "edition", "city"),
@@ -94,7 +89,7 @@ for prop, domain, range_ in properties:
 
 
 # --- GENERATE ONTOLOGY --- #
-g.serialize(destination="ontology.ttl", format="turtle")
-g.serialize(destination="ontology.rdfs", format="xml")
+g.serialize(destination="tbox.ttl", format="turtle")
+g.serialize(destination="tbox.rdfs", format="xml")
 
-print("TBox generated and saved as ontology.ttl and ontology.rdfs")
+print("TBox generated and saved as tbox.ttl and tbox.rdfs")
