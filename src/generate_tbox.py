@@ -12,7 +12,7 @@ g.bind("xsd", XSD)
 
 # --- CLASSES --- #
 classes = [
-    "person","author", "reviewer", "journal_editor", "conference_chair", "paper", "keyword",
+    "person","author", "reviewer", "journalEditor", "conferenceChair", "paper", "keyword",
     "volume", "journal", "edition", "proceeding", "event", "workshop", "conference", "city"
 ]
 for c in classes:
@@ -22,8 +22,8 @@ for c in classes:
 # --- SUBCLASSES --- #
 g.add((RES["author"], RDFS.subClassOf, RES["person"]))
 g.add((RES["reviewer"], RDFS.subClassOf, RES["person"]))
-g.add((RES["journal_editor"], RDFS.subClassOf, RES["person"]))
-g.add((RES["conference_chair"], RDFS.subClassOf, RES["person"]))
+g.add((RES["journalEditor"], RDFS.subClassOf, RES["person"]))
+g.add((RES["conferenceChair"], RDFS.subClassOf, RES["person"]))
 g.add((RES["workshop"], RDFS.subClassOf, RES["event"]))
 g.add((RES["conference"], RDFS.subClassOf, RES["event"]))
 
@@ -36,10 +36,10 @@ properties = [
     # add more attributes
 
     # Editor
-    ("headsJournal", "journal_editor", "journal"),
+    ("headsJournal", "journalEditor", "journal"),
 
-    # conference_chair
-    ("headsEvent", "conference_chair", "event"),
+    # conferenceChair
+    ("headsEvent", "conferenceChair", "event"),
 
     # Author
     ("writes", "author", "paper"),
@@ -50,32 +50,35 @@ properties = [
     ("abstract", "paper", XSD.string),
     ("doi", "paper", XSD.string),
     ("url", "paper", XSD.string),
-    ("citation_count", "paper", XSD.int),
+    ("citationCount", "paper", XSD.int),
     ("cites", "paper", "paper"),
-    ("has_corresponding_author", "paper", "author"),
-    ("reviewed_by", "paper", "reviewer"),
+    ("isCorrespondingAuthor", "author", "paper"),
+    ("reviewedBy", "paper", "reviewer"),
 
     # Keyword
     # ("keyword_name", "keyword", XSD.string),
 
     # Paper / Journal
-    ("published_in_volume", "paper", "volume"),
-    ("volume_number", "volume", XSD.int),
-    ("volume_year", "volume", XSD.int),
-    ("has_volume", "journal", "volume"),
-    ("journal_name", "journal", XSD.string),
+    ("publishedInVolume", "paper", "volume"),
+    ("volumeNumber", "volume", XSD.int),
+    ("volumeYear", "volume", XSD.int),
+    ("hasVolume", "journal", "volume"),
+    ("journalName", "journal", XSD.string),
 
     # Paper / Event
-    ("presented_in_edition", "paper", "edition"),
-    ("has_edition", "event", "edition"),
-    ("event_name", "event", XSD.string),
-    ("has_proceeding", "edition", "proceeding"),
-    ("proceeding_name", "proceeding", XSD.string),
+    ("presentedInEdition", "paper", "edition"),
+    ("hasEdition", "event", "edition"),
+    ("eventName", "event", XSD.string),
+    ("hasProceeding", "edition", "proceeding"),
+    ("proceedingName", "proceeding", XSD.string),
     ("heldInCity", "edition", "city"),
     # ("cityName", "city", XSD.string),
     ("heldInYear", "edition", XSD.int),
     ("hostedBy", "edition", XSD.string),
 ]
+
+# --- SUBPROPERTIES --- #
+g.add((RES["isCorrespondingAuthor"], RDFS.subPropertyOf, RES["writes"]))
 
 for prop, domain, range_ in properties:
     g.add((RES[prop], RDF.type, RDF.Property))
