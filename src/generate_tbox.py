@@ -21,7 +21,8 @@ for c in classes:
 
 # --- SUBCLASSES --- #
 g.add((RES["author"], RDFS.subClassOf, RES["person"]))
-g.add((RES["reviewer"], RDFS.subClassOf, RES["person"]))
+# g.add((RES["reviewer"], RDFS.subClassOf, RES["person"]))
+g.add((RES["reviewer"], RDFS.subClassOf, RES["author"]))
 g.add((RES["journalEditor"], RDFS.subClassOf, RES["person"]))
 g.add((RES["conferenceChair"], RDFS.subClassOf, RES["person"]))
 g.add((RES["workshop"], RDFS.subClassOf, RES["event"]))
@@ -36,10 +37,10 @@ properties = [
     # add more attributes
 
     # Editor
-    ("headsJournal", "journalEditor", "journal"),
+    ("headsJournal", "journalEditor", "volume"),
 
     # conferenceChair
-    ("headsEvent", "conferenceChair", "event"),
+    ("headsEvent", "conferenceChair", "edition"),
 
     # Author
     ("writes", "author", "paper"),
@@ -60,7 +61,7 @@ properties = [
 
     # Paper / Journal
     ("publishedInVolume", "paper", "volume"),
-    ("volumeNumber", "volume", XSD.int),
+    ("volumeNumber", "volume", XSD.string),
     ("volumeYear", "volume", XSD.int),
     ("hasVolume", "journal", "volume"),
     ("journalName", "journal", XSD.string),
