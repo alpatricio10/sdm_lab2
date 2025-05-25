@@ -9,91 +9,129 @@ g.bind("res", RES)
 g.bind("rdfs", RDFS)
 g.bind("xsd", XSD)
 
-
 # --- CLASSES --- #
 classes = [
-    "person","author", "reviewer", "journalEditor", "conferenceChair", "paper", "keyword",
-    "volume", "journal", "edition", "proceeding", "event", "workshop", "conference", "city"
+    "person", "author", "reviewer", "journalEditor", "conferenceChair", 
+    "paper", "keyword", "volume", "journal", "edition", "proceeding", 
+    "event", "workshop", "conference", "city"
 ]
 for c in classes:
     g.add((RES[c], RDF.type, RDFS.Class))
 
-
 # --- SUBCLASSES --- #
 g.add((RES["author"], RDFS.subClassOf, RES["person"]))
-# g.add((RES["reviewer"], RDFS.subClassOf, RES["person"]))
-g.add((RES["reviewer"], RDFS.subClassOf, RES["author"]))
+g.add((RES["reviewer"], RDFS.subClassOf, RES["author"]))  # Reviewers are relevant authors
 g.add((RES["journalEditor"], RDFS.subClassOf, RES["person"]))
 g.add((RES["conferenceChair"], RDFS.subClassOf, RES["person"]))
 g.add((RES["workshop"], RDFS.subClassOf, RES["event"]))
 g.add((RES["conference"], RDFS.subClassOf, RES["event"]))
 
 # --- PROPERTIES --- #
-# Defines the domain and the range
 properties = [
-    # Person
+    # Person properties 
     ("name", "person", XSD.string),
     ("email", "person", XSD.string),
-    # add more attributes
-
-    # Editor
-    ("headsJournal", "journalEditor", "volume"),
-
-    # conferenceChair
-    ("headsEvent", "conferenceChair", "edition"),
-
-    # Author
+    ("authorId", "author", XSD.int),  # From Author_ID
+    
+    # Editorial roles
+    ("headsJournal", "journalEditor", "journal"),  # Fixed: should head journal, not volume
+    ("headsEvent", "conferenceChair", "edition"),  # Conference chairs head editions
+    
+    # Authorship (matching your exact usage)
     ("writes", "author", "paper"),
-
-    # Paper
-    ("hasKeyword", "paper", "keyword"),
+    ("isCorrespondingAuthor", "author", "paper"),
+    ("reviews", "reviewer", "paper"), 
+    
+    # Paper properties 
     ("title", "paper", XSD.string),
     ("abstract", "paper", XSD.string),
     ("doi", "paper", XSD.string),
     ("url", "paper", XSD.string),
+    ("publicationDate", "paper", XSD.date),
+    ("year", "paper", XSD.int),
     ("citationCount", "paper", XSD.int),
+    ("referenceCount", "paper", XSD.int),
+    ("pages", "paper", XSD.string),
+    
+    # Paper relationships
+    ("hasKeyword", "paper", "keyword"),
     ("cites", "paper", "paper"),
-    ("isCorrespondingAuthor", "author", "paper"),
-    ("reviewedBy", "paper", "reviewer"),
-
-    # Keyword
-    # ("keyword_name", "keyword", XSD.string),
-
-    # Paper / Journal
+    ("citedBy", "paper", "paper"),  
+    
+    # Keyword properties 
+    ("keywordId", "keyword", XSD.int),
+    ("keywordName", "keyword", XSD.string),
+    
+    # Journal publication 
+    ("publishedInJournal", "paper", "journal"),
     ("publishedInVolume", "paper", "volume"),
-    ("volumeNumber", "volume", XSD.string),
-    ("volumeYear", "volume", XSD.int),
     ("hasVolume", "journal", "volume"),
     ("journalName", "journal", XSD.string),
-
-    # Paper / Event
-    ("presentedInEdition", "paper", "edition"),
+    ("issn", "journal", XSD.string),
+    ("journalUrl", "journal", XSD.string),
+    ("volumeNumber", "volume", XSD.string),
+    ("volumeYear", "volume", XSD.int),
+    
+    # Conference/Workshop publication 
+    ("presentedAt", "paper", "edition"),  # Used in ABox
+    ("publishedInProceeding", "paper", "proceeding"),  # Used in ABox
     ("hasEdition", "event", "edition"),
-    ("eventName", "event", XSD.string),
+    ("editionOf", "edition", "event"),  # Inverse relationship used in ABox
     ("hasProceeding", "edition", "proceeding"),
-    ("proceedingName", "proceeding", XSD.string),
-    ("heldInCity", "edition", "city"),
-    # ("cityName", "city", XSD.string),
+    
+    # Event properties 
+    ("eventName", "event", XSD.string),
+    ("eventUrl", "event", XSD.string),
+    ("eventId", "event", XSD.string),  # From conferences.csv ID
+    
+    # Edition properties (conference_editions.csv)
+    ("editionId", "edition", XSD.string),
+    ("editionName", "edition", XSD.string),
     ("heldInYear", "edition", XSD.int),
-    ("hostedBy", "edition", XSD.string),
+    ("heldInCity", "edition", "city"),
+    ("venueId", "edition", XSD.string),  
+    
+    # Proceeding properties
+    ("proceedingName", "proceeding", XSD.string),
+    
+    # City properties
+    ("cityName", "city", XSD.string),
 ]
 
 # --- SUBPROPERTIES --- #
 g.add((RES["isCorrespondingAuthor"], RDFS.subPropertyOf, RES["writes"]))
 
+# Add all properties with proper domains and ranges
 for prop, domain, range_ in properties:
     g.add((RES[prop], RDF.type, RDF.Property))
-    g.add((RES[prop], RDFS.domain, RES[domain] if isinstance(domain, str) and not str(domain).startswith("http://www.w3.org/2001/XMLSchema")  else domain))
-    g.add((RES[prop], RDFS.range, RES[range_] if isinstance(range_, str) and not str(range_).startswith("http://www.w3.org/2001/XMLSchema") else range_))
-
-# for prop, domain, range_ in properties:
-#     g.add((RES[prop], RDF.type, RDF.Property))
-#     g.add((RES[prop], RDFS.domain, RES[domain] if isinstance(domain, str) else domain))
-#     g.add((RES[prop], RDFS.range, RES[range_] if isinstance(range_, str) else range_))
-
+    
+    # Handle domain
+    if isinstance(domain, str) and not str(domain).startswith("http://www.w3.org/2001/XMLSchema"):
+        g.add((RES[prop], RDFS.domain, RES[domain]))
+    else:
+        g.add((RES[prop], RDFS.domain, domain))
+    
+    # Handle range
+    if isinstance(range_, str) and not str(range_).startswith("http://www.w3.org/2001/XMLSchema"):
+        g.add((RES[prop], RDFS.range, RES[range_]))
+    else:
+        g.add((RES[prop], RDFS.range, range_))
 
 # --- GENERATE ONTOLOGY --- #
 g.serialize(destination="tbox.ttl", format="turtle")
 g.serialize(destination="tbox.rdfs", format="xml")
 
 print("TBox generated and saved as tbox.ttl and tbox.rdfs")
+print(f"Total triples in TBox: {len(g)}")
+
+# Verification: Print key relationships
+print("\nClass hierarchies:")
+for s, p, o in g.triples((None, RDFS.subClassOf, None)):
+    print(f"  {s.split('#')[-1]} → {o.split('#')[-1]}")
+
+print("\nSubproperties:")
+for s, p, o in g.triples((None, RDFS.subPropertyOf, None)):
+    if o != RDF.Property:
+        print(f"  {s.split('#')[-1]} → {o.split('#')[-1]}")
+
+print(f"\nDefined {len(properties)} properties")
