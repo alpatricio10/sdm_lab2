@@ -60,12 +60,12 @@ properties = [
     
     # Keyword properties 
     ("keywordId", "keyword", XSD.int),
-    ("keywordName", "keyword", XSD.string),
     
     # Journal publication 
     ("publishedInJournal", "paper", "journal"),
     ("publishedInVolume", "paper", "volume"),
     ("hasVolume", "journal", "volume"),
+    ("volumeOf", "volume", "journal"),
     ("journalName", "journal", XSD.string),
     ("issn", "journal", XSD.string),
     ("journalUrl", "journal", XSD.string),
@@ -93,9 +93,6 @@ properties = [
     
     # Proceeding properties
     ("proceedingName", "proceeding", XSD.string),
-    
-    # City properties
-    ("cityName", "city", XSD.string),
 ]
 
 # --- SUBPROPERTIES --- #

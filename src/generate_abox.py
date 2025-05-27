@@ -181,13 +181,10 @@ print("Creating keywords...")
 keyword_instances = {}
 for _, row in keywords_df.iterrows():
     field_id = int(row['Field_ID'])
-    field_name = str(row['Field_Name']).strip()
-    
-    keyword_id = f"keyword_{field_id}"
-    keyword = RES[keyword_id]
+    field_name = str(row['Field_Name']).strip().replace(" ", "_")
+    keyword = RES[field_name]
     
     g.add((keyword, RES.keywordId, Literal(field_id, datatype=XSD.integer)))
-    g.add((keyword, RES.keywordName, Literal(field_name)))
     
     keyword_instances[field_id] = keyword
 
@@ -251,6 +248,7 @@ for _, row in journal_papers_df.iterrows():
         # Create volume only once
         if volume_id not in volume_instances:
             g.add((journal, RES.hasVolume, volume))
+            g.add((volume, RES.volumeOf, journal))
             g.add((volume, RES.volumeNumber, Literal(volume_str)))
             
             if pd.notna(row.get('Year')):
@@ -293,6 +291,7 @@ for _, row in conferences_df.iterrows():
     if pd.notna(row.get('url')):
         g.add((conference, RES.eventUrl, Literal(str(row['url']).strip())))
     
+    g.add((conference, RDF.type, RES["conference"]))
     conference_instances.add(conference_id)
 
 print(f"Created {len(conference_instances)} conferences")
@@ -318,6 +317,7 @@ for i in range(workshop_count):
         break
     
     g.add((workshop, RES.eventId, Literal(str(conf_id_num))))
+    g.add((workshop, RDF.type, RES["workshop"]))
     workshop_instances.add(workshop_id)
 
 print(f"Created {len(workshop_instances)} workshops")
@@ -348,11 +348,10 @@ for _, row in conference_editions_df.iterrows():
     
     # Create city
     city_name = generate_city_name()
-    city_id = f"city_{clean_string_for_uri(city_name)}_{edition_id_num}"
+    city_id = f"city_{clean_string_for_uri(city_name)}"
     city = RES[city_id]
     
     if city_id not in city_instances:
-        g.add((city, RES.cityName, Literal(city_name)))
         city_instances.add(city_id)
     
     g.add((edition, RES.heldInCity, city))
