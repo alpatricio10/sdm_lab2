@@ -31,11 +31,11 @@ properties = [
     # Person properties 
     ("name", "person", XSD.string),
     ("email", "person", XSD.string),
-    ("authorId", "author", XSD.int),  # From Author_ID
+    ("authorId", "author", XSD.integer),
     
     # Editorial roles
-    ("headsJournal", "journalEditor", "journal"),  # Fixed: should head journal, not volume
-    ("headsEvent", "conferenceChair", "edition"),  # Conference chairs head editions
+    ("headsJournal", "journalEditor", "journal"),
+    ("headsEvent", "conferenceChair", "edition"),
     
     # Authorship (matching your exact usage)
     ("writes", "author", "paper"),
@@ -48,9 +48,9 @@ properties = [
     ("doi", "paper", XSD.string),
     ("url", "paper", XSD.string),
     ("publicationDate", "paper", XSD.date),
-    ("year", "paper", XSD.int),
-    ("citationCount", "paper", XSD.int),
-    ("referenceCount", "paper", XSD.int),
+    ("year", "paper", XSD.integer),
+    ("citationCount", "paper", XSD.integer),
+    ("referenceCount", "paper", XSD.integer),
     ("pages", "paper", XSD.string),
     
     # Paper relationships
@@ -59,7 +59,7 @@ properties = [
     ("citedBy", "paper", "paper"),  
     
     # Keyword properties 
-    ("keywordId", "keyword", XSD.int),
+    ("keywordId", "keyword", XSD.integer),
     
     # Journal publication 
     ("publishedInJournal", "paper", "journal"),
@@ -70,7 +70,7 @@ properties = [
     ("issn", "journal", XSD.string),
     ("journalUrl", "journal", XSD.string),
     ("volumeNumber", "volume", XSD.string),
-    ("volumeYear", "volume", XSD.int),
+    ("volumeYear", "volume", XSD.integer),
     
     # Conference/Workshop publication 
     ("presentedAt", "paper", "edition"),  # Used in ABox
@@ -87,7 +87,7 @@ properties = [
     # Edition properties (conference_editions.csv)
     ("editionId", "edition", XSD.string),
     ("editionName", "edition", XSD.string),
-    ("heldInYear", "edition", XSD.int),
+    ("heldInYear", "edition", XSD.integer),
     ("heldInCity", "edition", "city"),
     ("venueId", "edition", XSD.string),  
     
